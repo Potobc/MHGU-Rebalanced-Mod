@@ -233,6 +233,16 @@ Beast Charged Aggression (Hits 3-4) 9x2 > 11x2   <br>
 Ultra Beast Spinisher 4 > 6   <br>
 Beast Furris Wheel 4 > 6   <br>
 
+## To Do:
+Find elemental modifiers  <br>
+Change chaos oil duration/effect?  <br>
+Find exhaust phial stun value  <br>
+Find CB phial files  <br>
+Change Trance Slash and Limit Break build up  <br>
+Reduce build up for SP Arts?   <br>
+Come up with a better name  <br>
+Balance the rest of the blademaster weapons  <br>
+
 # Credits:  <br>
 Kurrimu2 devs. Used it to extract and replace game files. [Link](https://github.com/FanTranslatorsInternational/Kuriimu2)  <br>
 Aradi and everyone who worked on the cope mod. Used their files to know where stuff was, and ~~stole~~ got a lot of changes from them. [Link](https://github.com/Aradi147/MHGUCope)  <br>

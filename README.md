@@ -100,7 +100,6 @@ Elemental Discharge Explosion (Cancel) 50 > 60  <br>
 Jumping Downslash 30 > 40  <br>
 Aerial upslash 35 > 45  <br>
 Adept Slashes 25x2 > 35x2  <br>
-Valor Double discharge 40+60 > 50+70  <br>
 Other sword moves got +10% MVs rounded up  <br>
 
 ### Phials:
@@ -109,20 +108,20 @@ Elemental phial multiplier increased 1,25 > 2   <br>
 
 ### Hunter Arts:
 Demon riot no longer buffs phials (couldn't balance around all phial types), but duration increased 105/120/105s > 120/150/180s  <br>
-Trance Slash I MVs buffed 13+15+20+**16+10x3+34**+20+25+30+15x4+**70+20** > 16+19+23+**23+17x3+62**+22+28+33+20x4+**80+30**  <br>
-Trance Slash II MVs buffed 15+17+22+**16+10x3+34**+24+29+35+25x4+**80+30** > 19+21+27+**23+17x3+62**+24+32+39+30x4+**95+45**  <br>
-Trance Slash III MVs buffed 18+20+25+**16+10x3+34**+28+33+40+30x4+**90+40** > 21+24+30+**23+17x3+62**+31+36+44+40x4+**110+60**  <br>
+Trance Slash I MVs buffed 13+15+20+**16+10x3+34**+20+25+30+15x4+**70+20** > 16+19+25+**23+17x3+62**+22+28+34+15x4+**80+30**  <br>
+Trance Slash II MVs buffed 15+17+22+**16+10x3+34**+24+29+35+25x4+**80+30** > 19+22+28+**23+17x3+62**+26+32+40+25x4+**95+45**  <br>
+Trance Slash III MVs buffed 18+20+25+**16+10x3+34**+28+33+40+30x4+**90+40** > 22+25+31+**23+17x3+62**+30+36+44+35x4+**110+60**  <br>
 Bold numbers refer to Tempest Axe/Demon Riot extensions  <br>
-Full Trance Slash total MVs 353/442/494 > 467/546/624  <br>
+Full Trance Slash total MVs 353/442/494 > 450/543/634  <br>
 Normal Trance Slash explosions 80/90/100 > 90/100/110  <br>
-Normal Trance Slash total MVs 263/332/384 > 311/370/428   <br>
+Normal Trance Slash total MVs 263/332/384 > 294/367/438   <br>
 Trance slash build up increased 670/750/830 [1004/1100/1196] > 980/1130/1250 [1253/1504/1700]  <br>
 Energy Charge build up increased (to combat MV buffs) 500/650/850 [800/980/1220] > 600/750/950 [950/1150/1315]  <br>
 Tempest Axe Finisher 15+55 > 15+75  <br>
 Tempest Axe move speed multiplier increased 2 > 3  <br>
 
 ### Weapons:
-Doubled element on all elemental phial switch axes (unless stated otherwise)  <br>
+Doubled element on all elemental phial switch axes  <br>
 Doubled status on paralysis/poison phial switch axes   <br>
 For all switch axes with Elemental phial and status I lowered their status until they were a bit better than their base counterparts with phials applied (Example: Teostra’s Hellebarde 44x1,25=55 > 20x3=60) (gotta change this since I did this when I had ele phial modifier at 3 instead of 2)  <br>
 Glavenus Axe: 1 Slot > 2 Slot to final level  <br>

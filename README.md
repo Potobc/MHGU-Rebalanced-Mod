@@ -5,11 +5,11 @@ This repository is temporary, i'll make a new one after finishing balancing stuf
 ## Great Sword
 
 ### Attacks:
-Side Slash 48/52/60/80 > 48/55/65/80  <br>
+Jumping Slash 48 > 56  <br>
+Aerial Draw Slash 48 > 56  <br>
 Aerial charge 57/66/75 > 60/75/90  <br>
-Aerial Side Slash 60 > 70  <br>
 Adept Upswing charge 26/39/52/78 > 48/55/70/85   <br>
-Valor Draw Slash 52/62/85/115 > 52/63/78/105  <br>
+Valor Draw Slash 52/62/85/115 > 48/63/78/105  <br>
 Valor charge 52/72/90/120 > 52/67/80/110  <br>
 Valor charge dash 52/65/81/112 > 46/60/72/102  <br>
 Valor Finisher Side Slash 48/52/60/80 > 40/50/60/70  <br>
@@ -17,7 +17,7 @@ Alchemy side slash 48 > 90 (increased alchemy gauge build up by 50%)  <br>
 
 ### Hunter Arts:
 Ground Slash MVs buffed 50+20x2/50+21x3/50+22x4 > 50+20x2/60+24x3/75+28x4   <br>
-Lion’s Maw MVs and multiplier buffed 48/52/66 > 58/62/76 1,1/1,2/1,33 > 1,3/1,6/2   <br>
+Lion’s Maw multiplier buffed 1,1/1,2/1,33 > 1,2/1,4/1,6   <br>
 Lion’s Maw build up increased 290/350/500 [548/620/800] > 370/450/580 [647/743/892]  <br>
 Brimstone Slash MVs buffed 130/150/175/190 > 150/180/220/270   <br>
 Moonbreaker MVs buffed 60/12+70/10+12+80 > 75/10+85/10+12+95  <br>

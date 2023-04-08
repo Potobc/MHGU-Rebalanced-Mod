@@ -40,8 +40,8 @@ Shield Bash 8 > 16  <br>
 Shield Thrust 16 > 22  <br>
 Backstep Charge Attack 20+34 > 25+40  <br>
 Jumping Slash 20 > 25  <br>
-Rising Jump Slash 18 >20  <br>
-Climbing Jump Slash 20 >22  <br>
+Rising Jump Slash 18 > 20  <br>
+Climbing Jump Slash 20 > 22  <br>
 Aerial Rising Slash 25 > 35  <br>
 Adept Lunging Slashes 18+20 > 22+24  <br>
 Adept Backstep Counter 42 > 50  <br>
@@ -50,7 +50,7 @@ Valor Round Slash 24 > 26  <br>
 Valor Backflip 14 > 20  <br>
 Valor Backflip Followup 16 > 18  <br>
 Valor Round Slashes 14+18 > 18+22  <br>
-Valor Rushing Slashes 20+10+10 > 22+12+12 (not sure if applied)  <br>
+Valor Rushing Slashes 20+10+10 > 22+12+12  <br>
 
 ### Hunter Arts:
 
@@ -59,6 +59,7 @@ Round force  MVs buffed 30/20+30/20+20+30 > 40/30+40/30+30+40  <br>
 Round force build up increased 250/250/290 [500/500/548] > 340/400/500 [504/611/733]  <br>
 Shoryugeki MVs buffed 10+60/10+35+60/10+35+60+30 > 10+70/10+45+70/10+45+70+40  <br>
 Shoruigeki III KO and exhaust increased 0+100+50+50KO > 0+100+75+75KO, 0+50+40+40ex > 0+60+45+45ex  <br>
+Chaos Oil build up increased 920/1000/1000 [1304/1400/1400] > 920/1000/1250 [1304/1400/1700]  <br>
 
 ## Lance
 
@@ -69,7 +70,7 @@ Non-Striker's third poke 16x3 > 22x3   <br>
 Wide Sweep 20 > 45   <br>
 Striker charge finisher 67 > 57  <br>
 Jump attack/Jumping Thrust 30 > 40  <br>
-Aerial triple poke 15x3 > 21x3  <br>
+Aerial triple poke 15x3 > 23x3  <br>
 Adept counter 41+36 > 60+50  <br>
 Uncharged Counter Thrust 22 > 25  <br>
 Charged Counter Thrust 50 > 60  <br>
@@ -78,7 +79,7 @@ Shield Bash 14 > 24 KO 27 > 45. Exhaust 27 > 25  <br>
 Valor Style GP shield bash 20 > 30. KO and Exhaust 27 > 35  <br>
 
 ### Hunter Arts:
-Shield Assault MVs buffed, charge 10 > 15, shield Attack 30 > 60, exhaust and KO 27 > 70, Lance Attack 50 > 85  <br>
+Shield Assault MVs buffed, charge 10 > 15, shield Attack 30 > 60 exhaust and KO 27 > 70, Lance Attack 50 > 85  <br>
 Corkscrew Jab 45x3/32x5/27x7 > 50x3/35x5/30x7  <br>
 Enraged Guard 1.1/1.2/1.3 > 1.05/1.1/1.15  <br>
 
@@ -115,7 +116,7 @@ Bold numbers refer to Tempest Axe/Demon Riot extensions  <br>
 Full Trance Slash total MVs 353/442/494 > 450/543/634  <br>
 Normal Trance Slash explosions 80/90/100 > 90/100/110  <br>
 Normal Trance Slash total MVs 263/332/384 > 294/367/438   <br>
-Trance slash build up increased 670/750/830 [1004/1100/1196] > 980/1130/1250 [1253/1504/1700]  <br>
+Trance slash build up increased 670/750/830 [1004/1100/1196] > 1080/1180/1300 [1496/1544/1754]  <br>
 Energy Charge build up increased (to combat MV buffs) 500/650/850 [800/980/1220] > 600/750/950 [950/1150/1315]  <br>
 Tempest Axe Finisher 15+55 > 15+75  <br>
 Tempest Axe move speed multiplier increased 2 > 3  <br>
@@ -156,8 +157,6 @@ Yellow shield Buffed 0% > 20%  <br>
 Draw Slash 18 > 22  <br>
 Forward Slice 14 > 17  <br>
 Upward Slice 15 > 18  <br>
-Roundslash  30 > 33  <br>
-Charge Slash 30+20 > 30+25  <br>
 Shield Thrust 8+12 > 12+16   <br>
 Morph to Axe Attack 42 > 48  <br>
 Jumping Slash 22 > 26  <br>
@@ -175,7 +174,7 @@ SAED (No Phials) 60 > 75  <br>
 UAED (No Phials) 20+60 > 20+90  <br>
 UAED 25+90 > 25+140  <br>
 Aerial SAED (No Phials) 42 > 90  <br>
-Aerial UAED (No Phials) 60 > 95  <br>
+Aerial UAED (No Phials) 60 > 100  <br>
 Aerial UAED 100 > 130  <br>
 Valor UAED (No Phials) 20+55 > 20+85  <br>
 Valor UAED 25+80 > 25+100  <br>
@@ -185,7 +184,6 @@ Energy Blade 0 Phials MVs buffed 10/20/30 > 50/60/80  <br>
 Energy Blade 7-9 Phials MVs buffed 160/180/200 > 180/200/230  <br>
 Energy Blade 10 Phials MVs buffed 200/220/250 > 230/250/280  <br>
 Limit break III duration increased from 150s > 180s  <br>
-Limit break build up decreased 1080/1170/1250 [1496/1604/1700] > 940/1000/1115 [1332/1425/1530]   <br>
 
 ### Weapons:
 Soulseer CB gave element phial, reduced affinity from 20% > 15%  <br>
@@ -237,7 +235,6 @@ Find elemental modifiers  <br>
 Change chaos oil duration/effect?  <br>
 Find exhaust phial stun value  <br>
 Find CB phial files  <br>
-Change Trance Slash and Limit Break build up  <br>
 Reduce build up for SP Arts?   <br>
 Come up with a better name  <br>
 Balance the rest of the blademaster weapons  <br>

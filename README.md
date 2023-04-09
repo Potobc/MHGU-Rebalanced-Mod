@@ -33,8 +33,6 @@ Up slash 14 > 15  <br>
 Down Slash 14 >15  <br>
 Side Slash 13 > 14  <br>
 Shield Combo 10+20 > 15+25  <br>
-Strong Side Slash 21 > 23  <br>
-Strong Up Slash 19 > 21  <br>
 Round Slash 24 > 26  <br>
 Shield Bash 8 > 16  <br>
 Shield Thrust 16 > 22  <br>
@@ -49,7 +47,7 @@ Valor Lunging Slashes 10+9+9 > 12+10+10  <br>
 Valor Round Slash 24 > 26  <br>
 Valor Backflip 14 > 20  <br>
 Valor Backflip Followup 16 > 18  <br>
-Valor Round Slashes 14+18 > 18+22  <br>
+Valor Round Slashes 14+18 > 16+20  <br>
 Valor Rushing Slashes 20+10+10 > 22+12+12  <br>
 
 ### Hunter Arts:
@@ -66,16 +64,16 @@ Chaos Oil build up increased 920/1000/1000 [1304/1400/1400] > 920/1000/1250 [130
 ### Attacks:
 Mid Thrust 20/20/25 > 23/23/27  <br>
 High Thrust 22/22/27 > 25/25/30  <br>
-Non-Striker's third poke 16x3 > 22x3   <br>
+Strong Low/High Thrust 16x3 > 22x3   <br>
 Wide Sweep 20 > 45   <br>
-Striker charge finisher 67 > 57  <br>
-Jump attack/Jumping Thrust 30 > 40  <br>
-Aerial triple poke 15x3 > 23x3  <br>
-Adept counter 41+36 > 60+50  <br>
 Uncharged Counter Thrust 22 > 25  <br>
 Charged Counter Thrust 50 > 60  <br>
 Overcharged Counter Thrust 20 > 30  <br>
+Jump attack/Jumping Thrust 30 > 40  <br>
 Shield Bash 14 > 24 KO 27 > 45. Exhaust 27 > 25  <br>
+Striker charge finisher 67 > 57  <br>
+Aerial triple poke 15x3 > 23x3  <br>
+Adept counter 41+36 > 60+50  <br>
 Valor Style GP shield bash 20 > 30. KO and Exhaust 27 > 35  <br>
 
 ### Hunter Arts:

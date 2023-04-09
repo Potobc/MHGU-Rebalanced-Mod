@@ -1,6 +1,6 @@
 # MHGU Rebalance mod 
  
-This repository is temporary, i'll make a new one after finishing balancing stuff
+WIP, leave suggestions in the issues page
 
 ## Great Sword
 
@@ -62,7 +62,7 @@ Chaos Oil build up increased 920/1000/1000 [1304/1400/1400] > 920/1000/1250 [130
 ## Lance
 
 ### Attacks:
-Mid Thrust 20/20/25 > 23/23/27  <br>
+Low Thrust 20/20/25 > 23/23/27  <br>
 High Thrust 22/22/27 > 25/25/30  <br>
 Strong Low/High Thrust 16x3 > 22x3   <br>
 Wide Sweep 20 > 45   <br>

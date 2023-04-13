@@ -213,20 +213,109 @@ Rathian CB element buffed 15/22/25/28/30/32/36/40 > 20/27/36/45/53/60/69/75  <br
 
 ## Palico/Prowler
 
-Applied all cope changes for compatibility reasons. Link to changes below  <br>
+Lots of changes here belong to cope mod there's a link below to check them
 
-### Beast:
-Beast Forward Slash 10x2 > 11x2  <br>
-Beast Triple Slash 8x3 > 9x3, Gauge build up 3 > 4  <br>
-Beast Backslash Gauge build up 4 > 5  <br>
-Beast Finisher 10x4 > 15x4  <br>
-Beast Jumping Slashes 12x2 > 13x2  <br>
-Beast Aggression Slashes (Hits 1-2) 5x2 > 6x2  <br>
-Beast Aggression Slashes (Hits 3-4) 7x2 > 8x2, Gauge build up 2 > 3  <br>
-Beast Charged Aggression (Hits 1-2) 6x2 > 8x2, Gauge build up 2 > 3  <br>
-Beast Charged Aggression (Hits 3-4) 9x2 > 11x2   <br>
-Ultra Beast Spinisher 4 > 6   <br>
-Beast Furris Wheel 4 > 6   <br>
+### MV changes:
+Furr-ious Flurry 1st Hit  7 > 12  <br>
+Furr-ious Flurry Mid 8 > 10  <br>
+Furr-ious Flurry Finisher hits 1-3 6x3 > 12x3  <br>
+Beast Furris Wheel 4 > 5  <br>
+RoM Spike 10 > 18, and 20KO > 25KO  <br>
+RoM Cannonball 8 > 12, and 0 KO > 20 KO  <br>
+Stunt Cannon 35 > 65  <br>
+Chestnut cannon 40 > 50  <br>
+Mega Boomerang blunt 22 > 25  <br>
+Iron Transpurrter throw 15 > 25, and finisher 20 > 35  <br>
+Claw Dance MV buffed 12x5+6x8+40=148 > 16x5+8x8+50=194  <br>
+Jumping Spinning Slash 5 > 12, gauge build up increased to 8, 5 > 8 for repeating hits   <br>
+
+
+### Support cost changes:
+Poison Purr-ison gauge cost 5 > 4  <br>
+Furrious gauge cost 4 > 3  <br>
+Health Horn gauge cost 2 > 1  <br>
+True Health Horn gauge cost 3 > 2  <br>
+Cheer Horn gauge cost 3 > 2  <br>
+Pitfall Purr-ison gauge cost 4 > 3  <br>
+Shock Purr-ison gauge cost 4 > 3  <br>
+Pilfer gauge cost 4 > 3  <br>
+Plunderrang gauge cost 4 > 3  <br>
+
+### Skill size changes:
+Attack up L size 3 > 2  <br>
+Extend Beast 2 > 1  <br>
+Pro Trapper size 3 > 2  <br>
+Horn Virtuoso size 3 > 2  <br>
+Negate Confusion size 2 > 1  <br>
+Felyne Protection size 2 > 1  <br>
+Recovery Speed Up size 2 > 1  <br>
+Guard Boost size 2 > 1  <br>
+Negate Wind size 2 > 1  <br>
+Wind Waker size 3 > 2  <br>
+Omniresistance size 3 > 2  <br>
+Nine Lives (Defense) size 3 > 1  <br>
+Guts size 3 > 2  <br>
+Extreme DEF-centric size 4 > 2  <br>
+Attack Up S size 2 > 1  <br>
+Fanalis size 2 > 1  <br>
+All elemental Boosts size 2 > 1  <br>
+Extend Fury size 2 > 1  <br>
+Worlds Strongest size 2 > 1  <br>
+Anger Prone size 2 > 1  <br>
+KO King size 2 > 1  <br>
+Bombay Boost size 3 > 2  <br>
+Elemental Attack Up size 3 > 2  <br>
+Last Stand size 3 > 2  <br>
+Land Master size 3 > 2  <br>
+Universal size 3 > 2  <br>
+Baddest Cat Ever size 3 > 2  <br>
+Triforce size 4 > 3  <br>
+Status Attack Up size 4 > 2  <br>
+Handicraft size 4 > 2  <br>
+Nine Lives (Attack) size 4 > 2  <br>
+Pilfer Boost size 3 > 2  <br>
+Extend SP State size 3 > 2  <br>
+Support Priority size 3 > 2  <br>
+Pro Experience size 4 > 2  <br>
+
+
+### Modifier Changes:
+Palico damage per level changed 15-110 > 2-100 (affects both melee and ranged)  <br>
+Palico defense per level changed 1-215 >2-100  <br>
+Assist, Heal, Gather, Protect, Fighting, and beast bomb modifiers decreased to 0,5  <br>
+Bomb bomb modifier Increased 1,2 > 1,5  <br>
+Charisma melee modifier increased  1 > 1,25  <br>
+Fight melee modifier increased  1,05 > 1,25  <br>
+Guard melee modifier increased  1,05 > 1,25  <br>
+Assist melee modifier increased  0,9 > 1  <br>
+Heal melee modifier increased  0,9 > 1  <br>
+Bomber melee modifier increased  0,95 > 1  <br>
+Gather melee modifier increased  0,9 > 1  <br>
+Beast melee modifier increased  1,1 > 1,5  <br>
+Charisma ranged modifier increased 0,95 > 1,25  <br>
+Guard ranged modifier increased 0,9 >1  <br>
+Assist ranged modifier decreased 1,05 > 1  <br>
+Heal ranged modifier increased 0,9 > 1  <br>
+Gather ranged modifier increased 1,1 > 1,5  <br>
+Beast ranged modifier increased  0,85 > 1  <br>
+Charisma defense modifier increased 0,95 > 2  <br>
+Fight defense modifier increased 0,95 > 2  <br>
+Guard defense modifier increased 1,1 > 3  <br>
+Assist defense modifier increased 0,7 > 2  <br>
+Heal dense modifier increased 1 > 2  <br>
+Bomber defense modifier increased 0,85 > 1,5  <br>
+Gather defense modifier increased 0,6 > 1  <br>
+Beast defense modifier increased  1,1 > 2  <br>
+Gauge modifiers order: Melee/Boomerang/Bomb/Blocks/gather/Passive in combat/Passive not in combat  <br>
+Charisma Gauge modifiers changed 0,95/0,9/1/0,8/0,625/0,4/0,6 > 1,3/1,3/1,5/1/1/0,6/0,6  <br>
+Fight Gauge modifiers changed 1,05/1/1/0,6/0,25/0,2/0,6 > 1,2/0,5/0,5/0,5/0,5/0,2/0,2  <br>
+Protect Gauge modifiers changed 0,85/0,75/1,3/1,5/0,25/0,2/0,4 > 1/0,5/0,5/2/0,5/0,4/0,2  <br>
+Assist Gauge modifiers changed 0,8/1,1/0,5/0,6/0,8/0,4/0,4 > 0,75/1/0,5/1/1,5/1/1,2  <br>
+Heal Gauge modifiers changed 0,7/0,75/0,5/1/1/0,8/1,1 > 0,75/1/0,5/1/1,5/1/1,2  <br>
+Bomb Gauge modifiers changed 0,9/1/1,6/0,25/0,25/0,2/0,4 > 0,5/0,5/2/0,25/0,5/0,2/0,2  <br>
+Gather Gauge modifiers changed 0,7/1,2/0,5/0,4/1,25/0,8/0,2 > 0,5/1,2/0,5/0,25/2/0,2/0,6  <br>
+Beast Gauge modifiers changed 1,1/0,75/0,75/0,25/0,25/0,2/0,2 > 1,2/0,5/0,5/0.25/0,5/0,2/0,2  <br>
+The passive modifiers refer to how much gauge you gain every 4 seconds, with one gauge being 20  <br>
 
 ## To Do:
 Find elemental modifiers  <br>
@@ -238,6 +327,7 @@ Come up with a better name  <br>
 Balance the rest of the blademaster weapons  <br>
 
 # Credits:  <br>
+Marie • マリー. Responsible for basically all the palico changes not taken from cope  <br>
 Kurrimu2 devs. Used it to extract and replace game files. [Link](https://github.com/FanTranslatorsInternational/Kuriimu2)  <br>
 Aradi and everyone who worked on the cope mod. Used their files to know where stuff was, and ~~stole~~ got a lot of changes from them. [Link](https://github.com/Aradi147/MHGUCope)  <br>
 Everyone who worked on the mhxx and mhgu modding wiki. Showed where to find and how to edit weapons base stats. [Link](https://github.com/GReinoso96/XXModding/wiki/Weapons)  <br>

@@ -253,10 +253,8 @@ Nine Lives (Defense) size 3 > 1  <br>
 Guts size 3 > 2  <br>
 Extreme DEF-centric size 4 > 2  <br>
 Attack Up S size 2 > 1  <br>
-Fanalis size 2 > 1  <br>
 All elemental Boosts size 2 > 1  <br>
 Extend Fury size 2 > 1  <br>
-Worlds Strongest size 2 > 1  <br>
 Anger Prone size 2 > 1  <br>
 KO King size 2 > 1  <br>
 Bombay Boost size 3 > 2  <br>

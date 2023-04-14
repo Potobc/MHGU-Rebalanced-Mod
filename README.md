@@ -1,6 +1,8 @@
 # MHGU Rebalance mod 
  
-WIP, leave suggestions in the issues page
+This mod mainly aims to buff low/mid tier weapons to make them comparable to high tier ones, so almost all changes are buffs.   <br>
+For prowler we wanted to make each bias have a more defined role, so the their changes center around that. <br>
+To install it, extract it to your mods folder if you are using ryujinx (Ryujinx\mods\contents\0100770008dd8000), or to the mhgu folder in atmosphere/contents if you are using a modded switch (atmosphere/contents/0100770008dd8000), this mod doesn’t work on yuzu.  <br>
 
 ## Great Sword
 
@@ -49,7 +51,7 @@ Valor Rushing Slashes 20+10+10 > 22+12+12  <br>
 
 ### Hunter Arts:
 
-Sword Dance MVs buffed 25+14+15+15+14+15+20+7+45 > 29+16+17+17+16+17+27+12+55 (level II finisher buffed 40 > 45)  <br>
+Sword Dance MVs buffed 25+14+15+15+14+15+20+7+45 > 29+16+17+17+16+17+27+12+55, level II finisher buffed 40 > 45  <br>
 Round force  MVs buffed 30/20+30/20+20+30 > 40/30+40/30+30+40  <br>
 Round force build up increased 250/250/290 [500/500/548] > 340/400/500 [504/611/733]  <br>
 Shoryugeki MVs buffed 10+60/10+35+60/10+35+60+30 > 10+70/10+45+70/10+45+70+40  <br>
@@ -136,7 +138,7 @@ Nightcloak Axe: status buffed 14/15/16/17/18 > 18/21/24/27/30 or 6/7/8/9/10 with
 Soulseer Axe: Gave elemental phial, buffed element 24/25/26/27/28 > 62/68/72/76/82, reduced affinity from 20% > 15%   <br>
 Snowbaron Axe: Gave elemental phial, buffed G rank element 22/24/26/28/30 > 60/64/68/72/80  <br>
 Boltreaver Axe: buffed element 15/16/17/18/19 > 54/56/58/60/62  <br>
-Grimclaw Axe: Gave elemental phial and dragon element (Cuadruple the dragon phial), Changed sharpness to same path as non G-rank (should be same as Tomb axe)  <br>
+Grimclaw Axe: Gave elemental phial and dragon element (4x the dragon phial), Changed sharpness to same path as non G-rank (should be same as Tomb axe)  <br>
 Elderfrost Axe: 5% > -20% affinity at all levels  <br>
 Silverwind Axe: 20% > 30% affinity at max level  <br>
 Bloodbath Axe: Gave power phial  <br>
@@ -213,6 +215,7 @@ Rathian CB element buffed 15/22/25/28/30/32/36/40 > 20/27/36/45/53/60/69/75  <br
 Lots of changes here belong to cope mod there's a link below to check them
 
 ### MV changes:
+Jumping Spinning Slash 1st hit 5 > 8, repeating hits 5 > 6, gauge build up for 1st hit 4 > 6   <br>
 Furr-ious Flurry 1st Hit  7 > 12  <br>
 Furr-ious Flurry Mid 8 > 10  <br>
 Furr-ious Flurry Finisher hits 1-3 6x3 > 12x3  <br>
@@ -222,19 +225,15 @@ RoM Cannonball 8 > 12, and 0 KO > 20 KO  <br>
 Stunt Cannon 35 > 65  <br>
 Chestnut cannon 40 > 50  <br>
 Mega Boomerang blunt 22 > 25  <br>
-Iron Transpurrter throw 15 > 25, and finisher 20 > 35  <br>
+Iron Transpurrter throw 15 > 25, finisher 20 > 35  <br>
 Claw Dance MV buffed 12x5+6x8+40=148 > 16x5+8x8+50=194  <br>
-Jumping Spinning Slash 5 > 12, gauge build up increased to 8, 5 > 8 for repeating hits   <br>
 
 
 ### Support cost changes:
 Poison Purr-ison gauge cost 5 > 4  <br>
 Furrious gauge cost 4 > 3  <br>
-Health Horn gauge cost 2 > 1  <br>
 True Health Horn gauge cost 3 > 2  <br>
 Cheer Horn gauge cost 3 > 2  <br>
-Pitfall Purr-ison gauge cost 4 > 3  <br>
-Shock Purr-ison gauge cost 4 > 3  <br>
 Pilfer gauge cost 4 > 3  <br>
 Plunderrang gauge cost 4 > 3  <br>
 
@@ -277,8 +276,9 @@ Pro Experience size 4 > 2  <br>
 
 
 ### Modifier Changes:
+TLDR at bottom
 Palico damage per level changed 15-110 > 2-100 (affects both melee and ranged)  <br>
-Palico defense per level changed 1-215 >2-100  <br>
+Palico defense per level changed 1-215 > 2-100  <br>
 Assist, Heal, Gather, Protect, Fighting, and beast bomb modifiers decreased to 0,5  <br>
 Bomb bomb modifier Increased 1,2 > 1,5  <br>
 Charisma melee modifier increased  1 > 1,25  <br>
@@ -286,13 +286,14 @@ Fight melee modifier increased  1,05 > 1,25  <br>
 Guard melee modifier increased  1,05 > 1,25  <br>
 Assist melee modifier increased  0,9 > 1  <br>
 Heal melee modifier increased  0,9 > 1  <br>
-Bomber melee modifier increased  0,95 > 1  <br>
+Bomb melee modifier increased  0,95 > 1,15  <br>
 Gather melee modifier increased  0,9 > 1  <br>
 Beast melee modifier increased  1,1 > 1,5  <br>
 Charisma ranged modifier increased 0,95 > 1,25  <br>
 Guard ranged modifier increased 0,9 >1  <br>
 Assist ranged modifier decreased 1,05 > 1  <br>
 Heal ranged modifier increased 0,9 > 1  <br>
+Bomb ranged modifier increased 1 > 1,15  <br>
 Gather ranged modifier increased 1,1 > 1,5  <br>
 Beast ranged modifier increased  0,85 > 1  <br>
 Charisma defense modifier increased 0,95 > 2  <br>
@@ -300,10 +301,10 @@ Fight defense modifier increased 0,95 > 2  <br>
 Guard defense modifier increased 1,1 > 3  <br>
 Assist defense modifier increased 0,7 > 2  <br>
 Heal dense modifier increased 1 > 2  <br>
-Bomber defense modifier increased 0,85 > 1,5  <br>
+Bomb defense modifier increased 0,85 > 1,5  <br>
 Gather defense modifier increased 0,6 > 1  <br>
 Beast defense modifier increased  1,1 > 2  <br>
-Gauge modifiers order: Melee/Boomerang/Bomb/Blocks/gather/Passive in combat/Passive not in combat  <br>
+Gauge modifiers order: Melee/Boomerang/Bomb/Block/gather/Passive in combat/Passive not in combat  <br>
 Charisma Gauge modifiers changed 0,95/0,9/1/0,8/0,625/0,4/0,6 > 1,3/1,3/1,5/1/1/0,6/0,6  <br>
 Fight Gauge modifiers changed 1,05/1/1/0,6/0,25/0,2/0,6 > 1,2/0,5/0,5/0,5/0,5/0,2/0,2  <br>
 Protect Gauge modifiers changed 0,85/0,75/1,3/1,5/0,25/0,2/0,4 > 1/0,5/0,5/2/0,5/0,4/0,2  <br>
@@ -312,7 +313,8 @@ Heal Gauge modifiers changed 0,7/0,75/0,5/1/1/0,8/1,1 > 0,75/1/0,5/1/1,5/1/1,2  
 Bomb Gauge modifiers changed 0,9/1/1,6/0,25/0,25/0,2/0,4 > 0,5/0,5/2/0,25/0,5/0,2/0,2  <br>
 Gather Gauge modifiers changed 0,7/1,2/0,5/0,4/1,25/0,8/0,2 > 0,5/1,2/0,5/0,25/2/0,2/0,6  <br>
 Beast Gauge modifiers changed 1,1/0,75/0,75/0,25/0,25/0,2/0,2 > 1,2/0,5/0,5/0.25/0,5/0,2/0,2  <br>
-The passive modifiers refer to how much gauge you gain every 4 seconds, with one gauge being 20  <br>
+TLDR:  <br>
+![imagen](https://user-images.githubusercontent.com/121890308/232096553-66ba8366-9a6f-4ccb-9245-92aa6244682d.png)
 
 ## To Do:
 Find elemental modifiers  <br>
@@ -324,9 +326,10 @@ Come up with a better name  <br>
 Balance the rest of the blademaster weapons  <br>
 
 # Credits:  <br>
-Marie • マリー. Responsible for basically all the palico changes not taken from cope  <br>
+Marie • マリー. Responsible for basically all the palico changes not taken from cope.  <br>
 Kurrimu2 devs. Used it to extract and replace game files. [Link](https://github.com/FanTranslatorsInternational/Kuriimu2)  <br>
 Aradi and everyone who worked on the cope mod. Used their files to know where stuff was, and ~~stole~~ got a lot of changes from them. [Link](https://github.com/Aradi147/MHGUCope)  <br>
 Everyone who worked on the mhxx and mhgu modding wiki. Showed where to find and how to edit weapons base stats. [Link](https://github.com/GReinoso96/XXModding/wiki/Weapons)  <br>
 Awesomeosity. Used their guides to know attacks MVs and names. [Link](https://drive.google.com/drive/folders/117JR73W79j0ToZ0TyVFRPNm_hFGX44Hj)  <br>
 Everyone who worked on Kiranico. Used for finding IDs when editing weapons. [Link](https://mhgu.kiranico.com/)  <br>
+iSharingan. Used their spreadsheet to know palico gauge modifiers. [Link](https://docs.google.com/spreadsheets/d/1D7IaRnsc3Jv3ce-RGHB0tJV-ArvNZbrHP-w9ZRIBBAQ/edit)

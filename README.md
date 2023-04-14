@@ -274,7 +274,7 @@ Pro Experience size 4 > 2  <br>
 
 
 ### Modifier Changes:
-TLDR at bottom
+TLDR at bottom  <br>
 Palico damage per level changed 15-110 > 2-100 (affects both melee and ranged)  <br>
 Palico defense per level changed 1-215 > 2-100  <br>
 Assist, Heal, Gather, Protect, Fighting, and beast bomb modifiers decreased to 0,5  <br>

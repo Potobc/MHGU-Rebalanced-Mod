@@ -1,8 +1,11 @@
 # MHGU Rebalance mod 
  
 This mod mainly aims to buff low/mid tier weapons to make them comparable to high tier ones, so almost all changes are buffs.   <br>
-For prowler we wanted to make each bias have a more defined role, so the their changes center around that. <br>
-To install it, extract it to your mods folder if you are using ryujinx (Ryujinx\mods\contents\0100770008dd8000), or to the mhgu folder in atmosphere/contents if you are using a modded switch (atmosphere/contents/0100770008dd8000), this mod doesn’t work on yuzu.  <br>
+For palico/prowler we wanted to make each bias have a more defined role while not buffing their offensive capabilities too much. <br>
+
+To install it, extract it to your mods folder if you are using ryujinx (should look like this: Ryujinx\mods\contents\0100770008dd8000\0100770008DD8000), or to the mhgu folder in atmosphere/contents if you are using a modded switch (should look like this: atmosphere/contents/0100770008dd8000/0100770008DD8000), doesn’t work on yuzu. Also remember to back up your save file.  <br>
+
+If you have any suggestions leave them in the issues page, or DM me at Poto#5143  <br>
 
 ## Great Sword
 
@@ -98,6 +101,7 @@ Elemental Discharge Explosion (Cancel) 50 > 60  <br>
 Jumping Downslash 30 > 40  <br>
 Aerial upslash 35 > 45  <br>
 Adept Slashes 25x2 > 35x2  <br>
+Valor Double Discharge 40+60 > 30+50  <br>
 Other sword moves got +10% MVs rounded up  <br>
 
 ### Phials:
@@ -105,7 +109,7 @@ Power phial multiplier decreased 1,2 > 1,15   <br>
 Elemental phial multiplier increased 1,25 > 2   <br>
 
 ### Hunter Arts:
-Demon riot no longer buffs phials (couldn't balance around all phial types), but duration increased 105/120/105s > 120/150/180s  <br>
+Demon riot no longer buffs phials, but duration increased 105/120/105s > 120/150/180s  <br>
 Trance Slash I MVs buffed 13+15+20+**16+10x3+34**+20+25+30+15x4+**70+20** > 16+19+25+**23+17x3+62**+22+28+34+15x4+**80+30**  <br>
 Trance Slash II MVs buffed 15+17+22+**16+10x3+34**+24+29+35+25x4+**80+30** > 19+22+28+**23+17x3+62**+26+32+40+25x4+**95+45**  <br>
 Trance Slash III MVs buffed 18+20+25+**16+10x3+34**+28+33+40+30x4+**90+40** > 22+25+31+**23+17x3+62**+30+36+44+35x4+**110+60**  <br>
@@ -121,7 +125,7 @@ Tempest Axe move speed multiplier increased 2 > 3  <br>
 ### Weapons:
 Doubled element on all elemental phial switch axes  <br>
 Doubled status on paralysis/poison phial switch axes   <br>
-For all switch axes with Elemental phial and status I lowered their status until they were a bit better than their base counterparts with phials applied (Example: Teostra’s Hellebarde 44x1,25=55 > 20x3=60) (gotta change this since I did this when I had ele phial modifier at 3 instead of 2)  <br>
+For switch axes with Elemental phial and status (except nightcloak) I divided their status by 1,38 (rounded up) to make it similar to a 1,45x boost in status (should be equal to having demon Riot III active previously)  <br>
 Glavenus Axe: 1 Slot > 2 Slot to final level  <br>
 Deviljho: Gave Power phial and dragon element (2x dragon phial)  <br>
 Savage jho: gave power phial and dragon element (2x dragon phial)  <br>
@@ -129,16 +133,17 @@ Amatsu Axe: gave elemental Phial, and element multiplied by 6 instead of 2  <br>
 Alatreon Axe: buffed raw 180/180/180/260/280 > 180/190/200/260/300  <br>
 Kirin Axe: gave elemental Phial  <br>
 Mundus altus: ele multiplied by 1,7 instead of 2  <br>
-Chameleos axe: +20 raw to all levels  <br>
+Chameleos axe: buffed raw 120/130/160/170/250/280 > 140/150/180/190/270/300  <br>
 Unkalos Axe: gave power phial  <br>
 Akantor Axe: gave power phial and changed raw 250/250/250/320/370 > 250/270/290/320/370  <br>
-Crimson Fatalis Axe: gave power Phial and +20 raw to all levels  <br>
+Crimson Fatalis Axe: gave power Phial and buffed raw 130/240/250 > 250/260/270  <br>
 Stonefist Axe: gave power phial  <br>
 Nightcloak Axe: status buffed 14/15/16/17/18 > 18/21/24/27/30 or 6/7/8/9/10 without ele phial applied (change this)  <br>
 Soulseer Axe: Gave elemental phial, buffed element 24/25/26/27/28 > 62/68/72/76/82, reduced affinity from 20% > 15%   <br>
 Snowbaron Axe: Gave elemental phial, buffed G rank element 22/24/26/28/30 > 60/64/68/72/80  <br>
 Boltreaver Axe: buffed element 15/16/17/18/19 > 54/56/58/60/62  <br>
 Grimclaw Axe: Gave elemental phial and dragon element (4x the dragon phial), Changed sharpness to same path as non G-rank (should be same as Tomb axe)  <br>
+Nightcloak Axe: Status buffed 14/15/16/17/18 > 16/17/18/19/20  <br>
 Elderfrost Axe: 5% > -20% affinity at all levels  <br>
 Silverwind Axe: 20% > 30% affinity at max level  <br>
 Bloodbath Axe: Gave power phial  <br>
@@ -178,41 +183,36 @@ Valor UAED 25+80 > 25+100  <br>
 
 ### Hunter Arts:
 Energy Blade 0 Phials MVs buffed 10/20/30 > 50/60/80  <br>
-Energy Blade 7-9 Phials MVs buffed 160/180/200 > 180/200/230  <br>
-Energy Blade 10 Phials MVs buffed 200/220/250 > 230/250/280  <br>
 Limit break III duration increased from 150s > 180s  <br>
 
 ### Weapons:
-Soulseer CB gave element phial, reduced affinity from 20% > 15%  <br>
-Soulseer CB element buffed 24/25/26/27/28 > 48/52/56/60/64  <br>
-Grimclaw CB gave element phial, dragon element, and same sharpness path as non G-rank  <br>
-Grimclaw CB element buffed 0/0/0/0/0/0/0/0/0/0/0/0/0/0/0 > 29/32/35/39/41/43/47/48/50/54/56/58/60/63/67  <br>
-Following changes are from cope mod  <br>
-Boltreaver CB gave element phial   <br>
-Boltreaver CB element buffed 15/16/17/18/19 > 20/30/40/50/60  <br>
-ElderFrost CB element buffed 16/17/18/19/20 > 15/25/35/45/55  <br>
-Old fatalis CB element buffed 44/47/50 > 65/75/90  <br>
-Alatreon CB element buffed 41/42/43 > 60/71/82  <br>
-Dreadking CB element buffed 16/17/18/19/20/21/22/23/24/25/27/28/29/30/31 > 30/33/36/40/42/45/47/49/51/55/57/59/62/65/69  <br>
-Valstrax CB element buffed 38/40/42/44/46/48 > 45/50/60/65/70/75  <br>
-G. Rathian CB element buffed 34/35/36/39/42 > 50/58/63/72/80  <br>
-Chrono Gear CB element buffed 36/38/40/42/45 > 48/55/64/73/80  <br>
-Seltas Queen CB element buffed 30/32/35/38/40 > 45/54/62/71/80  <br>
-H. Zamtrios CB element buffed 34/35/36/39/42 > 50/58/63/72/80  <br>
-K. Captain's CB element buffed 34/35/36/39/42 > 50/58/63/72/80  <br>
-Zamtrios element buffed 25/27/30/32/34/37 > 35/42/49/56/63/70  <br>
-Seltas element buffed 21/23/24/25/27/29/31 > 30/35/40/48/55/61/69  <br>
-Sentinel CB element buffed 24/26/28/30/32/34 > 34/41/48/55/62/69  <br>
-Vaik CB element buffed 8/10/12/14/18/22 > 20/29/38/50/60/75  <br>
-Nakarkos CB element buffed 10/12/13/14/16/19/22 > 15/22/29/36/44/52/60  <br>
-Glavenus CB element buffed 16/18/20/22/24/26/28/30/33 > 25/29/34/40/44/49/55/63/69  <br>
-Gammoth CB element buffed 12/14/15/16/18/20/22/22/25 > 25/29/34/40/44/49/55/63/69  <br>
-Astalos CB element buffed 16/18/20/22/26/28/30/32/35 > 25/29/34/40/44/49/55/63/69  <br>
-Rathian CB element buffed 15/22/25/28/30/32/36/40 > 20/27/36/45/53/60/69/75  <br>
+Soulseer CB: Gave element phial, reduced affinity from 20% > 15%  <br>
+Soulseer CB: Element buffed 24/25/26/27/28 > 48/52/56/60/64  <br>
+Grimclaw CB: Gave element phial, dragon element, and same sharpness path as non G-rank  <br>
+Grimclaw CB: Element buffed 0/0/0/0/0/0/0/0/0/0/0/0/0/0/0 > 29/32/35/39/41/43/47/48/50/54/56/58/60/63/67  <br>
+Boltreaver CB: Gave element phial   <br>
+Boltreaver CB: Element buffed 15/16/17/18/19 > 20/30/40/50/60  <br>
+ElderFrost CB: 5% > -20% affinity at all levels, element buffed 16/17/18/19/20 > 15/25/35/45/55  <br>
+Old fatalis CB: Element buffed 44/47/50 > 65/75/90  <br>
+Alatreon CB: Element buffed 41/42/43 > 60/71/82  <br>
+Dreadking CB: Element buffed 16/17/18/19/20/21/22/23/24/25/27/28/29/30/31 > 30/33/36/40/42/45/47/49/51/55/57/59/62/65/69  <br>
+Valstrax CB: Element buffed 38/40/42/44/46/48 > 45/50/60/65/70/75  <br>
+G. Rathian CB: Element buffed 34/35/36/39/42 > 50/58/63/72/80  <br>
+Chrono Gear CB: Element buffed 36/38/40/42/45 > 48/55/64/73/80  <br>
+Seltas Queen CB: Element buffed 30/32/35/38/40 > 45/54/62/71/80  <br>
+H. Zamtrios CB: Element buffed 34/35/36/39/42 > 50/58/63/72/80  <br>
+K. Captain's CB: Element buffed 34/35/36/39/42 > 50/58/63/72/80  <br>
+Zamtrios cb: Element buffed 25/27/30/32/34/37 > 35/42/49/56/63/70  <br>
+Seltas CB: Element buffed 21/23/24/25/27/29/31 > 30/35/40/48/55/61/69  <br>
+Sentinel CB: Element buffed 24/26/28/30/32/34 > 34/41/48/55/62/69  <br>
+Vaik CB: Element buffed 8/10/12/14/18/22 > 20/29/38/50/60/75  <br>
+Nakarkos CB: Element buffed 10/12/13/14/16/19/22 > 15/22/29/36/44/52/60  <br>
+Glavenus CB: Element buffed 16/18/20/22/24/26/28/30/33 > 25/29/34/40/44/49/55/63/69  <br>
+Gammoth CB: Element buffed 12/14/15/16/18/20/22/22/25 > 25/29/34/40/44/49/55/63/69  <br>
+Astalos CB: Element buffed 16/18/20/22/26/28/30/32/35 > 25/29/34/40/44/49/55/63/69  <br>
+Rathian CB: Element buffed 15/22/25/28/30/32/36/40 > 20/27/36/45/53/60/69/75  <br>
 
 ## Palico/Prowler
-
-Lots of changes here belong to cope mod there's a link below to check them
 
 ### MV changes:
 Jumping Spinning Slash 1st hit 5 > 8, repeating hits 5 > 6, gauge build up for 1st hit 4 > 6   <br>

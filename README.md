@@ -7,6 +7,8 @@ To install it, extract it to your mods folder if you are using ryujinx (should l
 
 If you have any suggestions leave them in the issues page, or DM me at Poto#5143  <br>
 
+Also available on Gamabanana https://gamebanana.com/mods/447835   <br>
+
 ## Great Sword
 
 ### Attacks:

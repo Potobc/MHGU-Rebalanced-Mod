@@ -1,7 +1,7 @@
 # MHGU Rebalance mod 
  
-This mod mainly aims to buff low/mid tier weapons to make them comparable to high tier ones, so almost all changes are buffs.   <br>
-For palico/prowler we wanted to make each bias have a more defined role while not buffing their offensive capabilities too much. <br>
+This mod mainly buffs low/mid tier weapons to make them comparable to high tier ones.   <br>
+For Palicoes/Prowlers we made each bias have a more defined role while keeping their offensive capabilities relatively the same. <br>
 
 To install it, extract it to your mods folder if you are using ryujinx (should look like this: Ryujinx\mods\contents\0100770008dd8000\0100770008DD8000), or to the mhgu folder in atmosphere/contents if you are using a modded switch (should look like this: atmosphere/contents/0100770008dd8000/0100770008DD8000), doesn’t work on yuzu. Also remember to back up your save file.  <br>
 
@@ -10,12 +10,12 @@ If you have any suggestions leave them in the issues page, or DM me at Poto#5143
 ## Great Sword
 
 ### Attacks:
+Charge 48/65/80/100 > 58/75/90/110 (Valor stance charge (Y+X) stays the same)   <br>
 Jumping Slash 48 > 56  <br>
 Aerial Draw Slash 48 > 56  <br>
 Aerial charge 57/66/75 > 60/75/90  <br>
 Adept Upswing charge 26/39/52/78 > 48/55/70/85   <br>
-Valor Draw Slash 52/62/85/115 > 48/63/78/105  <br>
-Alchemy side slash 48 > 90 (increased alchemy gauge build up by 50%)  <br>
+Alchemy side slash 48 > 90, increased alchemy gauge build up by 50%  <br>
 
 ### Hunter Arts:
 Ground Slash MVs buffed 50+20x2/50+21x3/50+22x4 > 50+20x2/60+24x3/75+28x4   <br>
@@ -25,9 +25,6 @@ Brimstone Slash MVs buffed 130/150/175/190 > 130/160/190/210   <br>
 Moonbreaker MVs buffed 60/12+70/10+12+80 > 75/10+85/10+12+95  <br>
 
 ## Sword and shield:
-
-### Styles:
-Alchemy: All attacks give double alchemy gauge  <br>
 
 ### Attacks:
 Rush Slash 18 > 20  <br>
@@ -51,6 +48,7 @@ Valor Backflip 14 > 20  <br>
 Valor Backflip Followup 16 > 18  <br>
 Valor Round Slashes 14+18 > 16+20  <br>
 Valor Rushing Slashes 20+10+10 > 22+12+12  <br>
+All attacks give double alchemy gauge  <br>
 
 ### Hunter Arts:
 
@@ -60,6 +58,33 @@ Round force build up increased 250/250/290 [500/500/548] > 340/400/500 [504/611/
 Shoryugeki MVs buffed 10+60/10+35+60/10+35+60+30 > 10+70/10+45+70/10+45+70+40  <br>
 Shoruigeki III KO and exhaust increased 0+100+50+50KO > 0+100+75+75KO, 0+50+40+40ex > 0+60+45+45ex  <br>
 Chaos Oil build up increased 920/1000/1000 [1304/1400/1400] > 920/1000/1250 [1304/1400/1700]  <br>
+
+## Hammer
+
+### Attacks:
+Side Swing 15 > 20  <br>
+Weak Pound 20 > 30  <br>
+Draw Swing 20 > 30  <br>
+Charge 1 20 > 30  <br>
+Charge 2 40 > 50  <br>
+Charge 3 Idle 15+76 > 20+90, KO 5+27 > 5+35  <br>
+Charge 3 Moving 20+10x4 > 25+13x4, KO 2+2x4 > 10+8x4, Exhaust 2+2x4 > 8+4x4 (finishers stay the same)  <br>
+Striker 3rd Pound 60 > 70, fixed hunter art generation 4 > 70  <br>
+Striker Charge 3 19+86 > 25+95, KO 5+17 > 5+35  <br>
+Aerial Charge 3 60 > 75   <br>
+Aerial Smash 42 > 50   <br>
+Aerial Double Down 35+50 > 35+60  <br>
+Adept Charge 2 38 > 45  <br>
+Adept Rushing Swing 38 > 45  <br>
+Adept Idle Strong Charge 3 20+90 > 20+100, KO 10+27 > 10+40  <br>
+Adept Moving Strong Charge KO 10+27 > 10+35  <br>
+Valor Charge 3 15+85/20+105 > 15+85/20+115  <br>
+
+### Hunter Arts:
+Spinning Meteor 20x2+15+110/20x3+15+125/20x4+15+165 > 25x2+15+130/25x3+20+145/25x4+25+175, Exhaust Increased 15x2+10+30/15x3+10+30/15x4+10+40 > 18x2+10+40/18x3+15+55/18x4+20+70  <br>
+Provoke Duration Increased 30/60/60s > 60/60/90s  <br>
+Typhoon Trigger Damage Increased 5x6+20+50/60/80 > 8x6+25+50+60/70/90, KO Increased 2x6+40+60/100/125 > 5x6+50+70+100/120/140, Build Up Increased 250/330/420 [500/596/704] > 430/550/640 [1004/1100/1196]  <br>
+Impact Press Damage Increased 6 > 10, KO reduced 12 > 10, Exhaust Increased 4 > 5  <br>
 
 ## Lance
 
@@ -85,14 +110,12 @@ Enraged Guard 1.1/1.2/1.3 > 1.05/1.1/1.15  <br>
 
 ## Switch Axe
 
-### Styles:
-Alchemy: Axe attacks and Elemental Discharge Explosion (and cancel) give 50% extra gauge  <br>
-
 ### Axe Attacks:
 Side Slash and morphing Side slash 23 > 33  <br>
 Upswing 32 > 42  <br>
 Forward Thrust 19 > 25  <br>
 Wild Sweep and Adept Wild Sweep 25+30+40 > 25+45+40  <br>
+Axe attacks give 50% extra Alchemy gauge  <br>
 
 ### Sword Attacks:
 Elemental Discharge Ticks 13 > 15  <br>
@@ -103,6 +126,7 @@ Aerial upslash 35 > 45  <br>
 Adept Slashes 25x2 > 35x2  <br>
 Valor Double Discharge 40+60 > 30+50  <br>
 Other sword moves got +10% MVs rounded up  <br>
+Elemental Discharge Explosion (and cancel) give 50% extra Alchemy gauge  <br>
 
 ### Phials:
 Power phial multiplier decreased 1,2 > 1,15   <br>
@@ -125,7 +149,7 @@ Tempest Axe move speed multiplier increased 2 > 3  <br>
 ### Weapons:
 Doubled element on all elemental phial switch axes  <br>
 Doubled status on paralysis/poison phial switch axes   <br>
-For switch axes with Elemental phial and status (except nightcloak) I divided their status by 1,38 (rounded up) to make it similar to a 1,45x boost in status (should be equal to having demon Riot III active previously)  <br>
+For switch axes with Elemental phial and status I made their status similar to having demon Riot III active previously  <br>
 Glavenus Axe: 1 Slot > 2 Slot to final level  <br>
 Deviljho: Gave Power phial and dragon element (2x dragon phial)  <br>
 Savage jho: gave power phial and dragon element (2x dragon phial)  <br>
@@ -151,9 +175,9 @@ Gorgonzola Axe: status buffed 3/4/5 > 15/17/20  <br>
 
 ## Charge Blade
 
-### Styles:
+### Shield Buff:
 Non-striker red shield Buffed 15% > 20%  <br>
-Yellow shield Buffed 0% > 20%  <br>
+Yellow shield Buffed 0% > 25%  <br>
 
 ### Sword Attacks:
 Draw Slash 18 > 22  <br>
@@ -212,6 +236,44 @@ Gammoth CB: Element buffed 12/14/15/16/18/20/22/22/25 > 25/29/34/40/44/49/55/63/
 Astalos CB: Element buffed 16/18/20/22/26/28/30/32/35 > 25/29/34/40/44/49/55/63/69  <br>
 Rathian CB: Element buffed 15/22/25/28/30/32/36/40 > 20/27/36/45/53/60/69/75  <br>
 
+## Insect Glaive 
+
+### Extracts:
+White 90s > 105s  <br>
+Red 60s > 75s  <br>
+Orange 45s > 60s  <br>
+Triple up 60s > 90s  <br>
+
+### Attacks:
+All red extract attacks and style specific moves get an element mod. of 1,1  <br>
+Parenthesis refer to damage of attack with red extract  <br>
+Draw Slam 25 > 27  <br>
+Jump slam 21 > 23  <br>
+Marker Bash 10 > 15  <br>
+Forward thrust 12 (15+9) > 13 (16+10)  <br>
+Sweep ‘n Swipe 23+17 (25+13+15) > 25+19 (27+14+16)  <br>
+Wide Sweep 23 (13+23) > 25 (14+25)  <br>
+Double Lateral 15+21 (13+11+25) > 16+23 (14+12+27)  <br>
+Round Slash 23 (25+27) > 25 (27+30)  <br>
+Double Lunge 27 (21+35) > 30 (25+38)  <br>
+Backflip 17 (13+13) > 19 (14+14)  <br>
+Jumping Slash 21 (17+7) > 23 (19+9)  <br>
+Aerial Spin Assault 17 > 24  <br>
+Adept Slam 30 > 40  <br>
+Adept Roundhouse 35 > 48  <br>
+
+### Kinsect Attacks:
+Send Kinsect 22 > 45  <br>
+Charge Kinsect 60 > 80  <br>
+Adept Slam Kinsect 30 > 60  <br>
+
+### Hunter Arts:
+To balance MVs buffs all HAs get increased build up
+Extract Hunter buff duration increased 30/60/90 > 60/90/120, build up increased 700/900/1000 [1040/1280/1400] > 805/1035/1150 [1196/1472/1610]  <br>
+Swarm damage Increased 5 > 8 with no extract, and 6 > 12, level 3 duration increased 60s > 90s, build up increased 1000/1080/1250 [1400/1496/1700] > 1150/1242/1437 [1610/1720/1955]  <br>
+Bug Blow finisher damage increased 80/105/120 > 90/120/150, finisher stagger mod increased 1/1/1 > 1,5/1,75/2 (same for bug blow+swarm), build up increased 580/670/750 [896/1004/1100] > 667/770/862 [1030/11541265]  <br>
+Bug Majeure Combo damage increased 60+25+35 > 85+50+60, build up increased 1080/1170/1250 [1496/1604/1700] > 1242/1345/1437 [1720/1844/1955]  <br>
+
 ## Palico/Prowler
 
 ### MV changes:
@@ -227,51 +289,54 @@ Chestnut cannon 40 > 50  <br>
 Mega Boomerang blunt 22 > 25  <br>
 Iron Transpurrter throw 15 > 25, finisher 20 > 35  <br>
 Claw Dance MV buffed 12x5+6x8+40=148 > 16x5+8x8+50=194  <br>
-
+Plunderang 25 > 70   <br>
 
 ### Support cost changes:
-Poison Purr-ison gauge cost 5 > 4  <br>
-Furrious gauge cost 4 > 3  <br>
-True Health Horn gauge cost 3 > 2  <br>
+Barrel Bombay 0 > 1  <br>
 Cheer Horn gauge cost 3 > 2  <br>
+Furrious gauge cost 4 > 3  <br>
 Pilfer gauge cost 4 > 3  <br>
-Plunderrang gauge cost 4 > 3  <br>
+Plunderrang gauge cost 4 > 2  <br>
+Poison Purr-ison gauge cost 5 > 4  <br>
+True Health Horn gauge cost 3 > 2  <br>
 
 ### Skill size changes:
-Attack up L size 3 > 2  <br>
+All elemental Boosts 2 > 1  <br>
+Anger Prone 2 > 1  <br>
+Attack up L 3 > 2  <br>
+Attack Up S 2 > 1  <br>
+Baddest Cat Ever 3 > 2  <br>
+Bombay Boost 3 > 2  <br>
+Crit Boost 4 > 3  <br>
+Elemental Attack Up 3 > 2  <br>
 Extend Beast 2 > 1  <br>
-Pro Trapper size 3 > 2  <br>
-Horn Virtuoso size 3 > 2  <br>
-Negate Confusion size 2 > 1  <br>
-Felyne Protection size 2 > 1  <br>
-Recovery Speed Up size 2 > 1  <br>
-Guard Boost size 2 > 1  <br>
-Negate Wind size 2 > 1  <br>
-Wind Waker size 3 > 2  <br>
-Omniresistance size 3 > 2  <br>
-Nine Lives (Defense) size 3 > 1  <br>
-Guts size 3 > 2  <br>
-Extreme DEF-centric size 4 > 2  <br>
-Attack Up S size 2 > 1  <br>
-All elemental Boosts size 2 > 1  <br>
-Extend Fury size 2 > 1  <br>
-Anger Prone size 2 > 1  <br>
-KO King size 2 > 1  <br>
-Bombay Boost size 3 > 2  <br>
-Elemental Attack Up size 3 > 2  <br>
-Last Stand size 3 > 2  <br>
-Land Master size 3 > 2  <br>
-Universal size 3 > 2  <br>
-Baddest Cat Ever size 3 > 2  <br>
-Triforce size 4 > 3  <br>
-Status Attack Up size 4 > 2  <br>
-Handicraft size 4 > 2  <br>
-Nine Lives (Attack) size 4 > 2  <br>
-Pilfer Boost size 3 > 2  <br>
-Extend SP State size 3 > 2  <br>
-Support Priority size 3 > 2  <br>
-Pro Experience size 4 > 2  <br>
-
+Extend Fury 2 > 1  <br>
+Extend SP State 3 > 2  <br>
+Extreme DEF-centric 4 > 2  <br>
+Fanalis 2 > 1  <br>
+Felyne Protection 2 > 1  <br>
+Guard Boost 2 > 1  <br>
+Guts 3 > 2  <br>
+Handicraft 4 > 2  <br>
+Horn Virtuoso 3 > 2  <br>
+KO King 2 > 1  <br>
+Land Master 3 > 2  <br>
+Last Stand 3 > 2  <br>
+Negate Confusion 2 > 1  <br>
+Negate Wind 2 > 1  <br>
+Nine Lives (Attack) 4 > 2  <br>
+Nine Lives (Defense) 3 > 1  <br>
+Omniresistance 3 > 2  <br>
+Pilfer Boost 3 > 2  <br>
+Pro Experience 4 > 2  <br>
+Pro Trapper 3 > 2  <br>
+Recovery Speed Up 2 > 1  <br>
+Status Attack Up 4 > 2  <br>
+Support Priority 3 > 2  <br>
+Triforce 4 > 3  <br>
+Universal 3 > 2  <br>
+Weakness Exploit 2 > 3  <br>
+Wind Waker 3 > 2  <br>
 
 ### Modifier Changes:
 TLDR at bottom  <br>
@@ -314,20 +379,30 @@ Beast Gauge modifiers changed 1,1/0,75/0,75/0,25/0,25/0,2/0,2 > 1,2/0,5/0,5/0.25
 TLDR:  <br>
 ![imagen](https://user-images.githubusercontent.com/121890308/232096553-66ba8366-9a6f-4ccb-9245-92aa6244682d.png)
 
-## To Do:
-Find elemental modifiers  <br>
-Change chaos oil duration/effect?  <br>
-Find exhaust phial stun value  <br>
-Find CB phial files  <br>
-Reduce build up for SP Arts?   <br>
-Come up with a better name  <br>
-Balance the rest of the blademaster weapons  <br>
+## Optional Palico Changes:
+
+### Moves:
+Assist: emergency retreat > piercing Boomerang   <br>
+Fighting: piercing Boomerang > emergency retreat  <br>
+Switched those two since I wanted to keep the 2 bias per move rule and fighting is melee focus so emergency retreat gives it a good and inherent healing move. (same reasoning for giving Assist piercing since it's ranged focused)  <br>
+Bomb: Mega Barrel Bombay > Giga Barrel Bombay (Mega replaces Giga in A tier skills, doesn't make sense for Bomb to not have innate access to the best Bomb move)  <br>
+
+### Skills:
+Charisma: Slacker slap > weakness exploit (slacker slap wasn't useful so this way you can get wex without the save editor or XX exclusive cats)  <br>
+Fighting: Attack up S > Extend Fury (Attack Up is now a C tier skil replacing tremos res., with the it taking extend fury place in B tier)  <br>
+Beast: Recovery Speed Up > Extend Beast (Recovery Speed Up replace biology in C tier)  <br>
+Replaced Goldenfish Catcher, Negate Confusion and wind, Stamina Drain, and Non-stick fur, with an elemental boost skill (ice, water, and dragon boost, megaflare, and nagatobimaru), and made them 1 cost.   <br>
+
+Optional since the game does have a sanity check and will unequip moves/skills if you have any illegal ones, so you will have to use a save editor or grind if you want to use these changes.  <br>
+To install it just replace the file inside Ryujinx\mods\contents\0100770008dd8000\0100770008DD8000\romfs\nativeNX\loc\arc  <br>
 
 # Credits:  <br>
 Marie • マリー. Responsible for basically all the palico changes not taken from cope.  <br>
+NeoChozo. Tester for blademaster weapons and helped with balancing them.  <br>
 Kurrimu2 devs. Used it to extract and replace game files. [Link](https://github.com/FanTranslatorsInternational/Kuriimu2)  <br>
 Aradi and everyone who worked on the cope mod. Used their files to know where stuff was, and ~~stole~~ got a lot of changes from them. [Link](https://github.com/Aradi147/MHGUCope)  <br>
 Everyone who worked on the mhxx and mhgu modding wiki. Showed where to find and how to edit weapons base stats. [Link](https://github.com/GReinoso96/XXModding/wiki/Weapons)  <br>
 Awesomeosity. Used their guides to know attacks MVs and names. [Link](https://drive.google.com/drive/folders/117JR73W79j0ToZ0TyVFRPNm_hFGX44Hj)  <br>
 Everyone who worked on Kiranico. Used for finding IDs when editing weapons. [Link](https://mhgu.kiranico.com/)  <br>
-iSharingan. Used their spreadsheet to know palico gauge modifiers. [Link](https://docs.google.com/spreadsheets/d/1D7IaRnsc3Jv3ce-RGHB0tJV-ArvNZbrHP-w9ZRIBBAQ/edit)
+iSharingan. Used their spreadsheet to know palico gauge modifiers. [Link](https://docs.google.com/spreadsheets/d/1D7IaRnsc3Jv3ce-RGHB0tJV-ArvNZbrHP-w9ZRIBBAQ/edit)  <br>
+Monkbreh (github: Monkbreh). Helped with move identification and told me where to find valor style changes (haven't made these yet) [Link](https://github.com/Monkbreh)  <br>

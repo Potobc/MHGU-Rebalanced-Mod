@@ -5,9 +5,16 @@ For Palicoes/Prowlers we made each bias have a more defined role while keeping t
 
 To install it, extract it to your mods folder if you are using ryujinx (should look like this: Ryujinx\mods\contents\0100770008dd8000\0100770008DD8000), or to the mhgu folder in atmosphere/contents if you are using a modded switch (should look like this: atmosphere/contents/0100770008dd8000/0100770008DD8000), doesn’t work on yuzu. Also remember to back up your save file.  <br>
 
-If you have any suggestions leave them in the issues page, or DM me at Poto#5143  <br>
+If you have any suggestions leave them in the issues page, or DM me at potobc  <br>
 
-Also available on Gamabanana https://gamebanana.com/mods/447835   <br>
+Also available on Gamebanana https://gamebanana.com/mods/447835   <br>
+
+## All Weapons
+All MV increases are also HA generation increases   <br>
+Adjusted SP mode cost increase   <br>
+![imagen](https://github.com/Potobc/MHGU-Rebalanced-Mod/assets/121890308/745bf5d0-9ff4-4ac9-b4fb-b5314aa0e056)   <br>
+Alchemy Fireball fixed damage increased 60 > 150, stagger mod increased 1,3 > 1,6 (240 part damage per fireball)   <br>
+
 
 ## Great Sword
 
@@ -22,7 +29,7 @@ Alchemy side slash 48 > 90, increased alchemy gauge build up by 50%  <br>
 ### Hunter Arts:
 Ground Slash MVs buffed 50+20x2/50+21x3/50+22x4 > 50+20x2/60+24x3/75+28x4   <br>
 Lion’s Maw multiplier buffed 1,1/1,2/1,33 > 1,2/1,4/1,6   <br>
-Lion’s Maw build up increased 290/350/500 [548/620/800] > 370/450/580 [647/743/892]  <br>
+Lion’s Maw build up increased 290/350/500 [548/620/800] > 370/450/580 [601/672/791]  <br>
 Brimstone Slash MVs buffed 130/150/175/190 > 130/160/190/210   <br>
 Moonbreaker MVs buffed 60/12+70/10+12+80 > 75/10+85/10+12+95  <br>
 
@@ -33,17 +40,17 @@ Rush Slash 18 > 20  <br>
 Up slash 14 > 15  <br>
 Down Slash 14 >15  <br>
 Side Slash 13 > 14  <br>
-Shield Combo 10+20 > 15+25  <br>
+Shield Combo 10+20 > 20+25  <br>
 Round Slash 24 > 26  <br>
-Shield Bash 8 > 16  <br>
-Shield Thrust 16 > 22  <br>
-Backstep Charge Attack 20+34 > 25+40  <br>
+Shield Bash 8 > 21  <br>
+Shield Thrust 16 > 30  <br>
+Backstep Charge Attack 20+34 > 32+40  <br>
 Jumping Slash 20 > 25  <br>
 Rising Jump Slash 18 > 20  <br>
 Climbing Jump Slash 20 > 22  <br>
 Aerial Rising Slash 25 > 35  <br>
 Adept Lunging Slashes 18+20 > 22+24  <br>
-Adept Backstep Counter 42 > 50  <br>
+Adept Backstep Counter 42 > 50, elemental/stagger mods 1/1 > 2/1,5  <br>
 Valor Lunging Slashes 10+9+9 > 12+10+10  <br>
 Valor Round Slash 24 > 26  <br>
 Valor Backflip 14 > 20  <br>
@@ -51,15 +58,16 @@ Valor Backflip Followup 16 > 18  <br>
 Valor Round Slashes 14+18 > 16+20  <br>
 Valor Rushing Slashes 20+10+10 > 22+12+12  <br>
 All attacks give double alchemy gauge  <br>
+All shield attacks get their KO and exhaust doubled, and increased stagger mod 1 > 1,5   <br>
 
 ### Hunter Arts:
 
 Sword Dance MVs buffed 25+14+15+15+14+15+20+7+45 > 29+16+17+17+16+17+27+12+55, level II finisher buffed 40 > 45  <br>
 Round force  MVs buffed 30/20+30/20+20+30 > 40/30+40/30+30+40  <br>
-Round force build up increased 250/250/290 [500/500/548] > 340/400/500 [504/611/733]  <br>
-Shoryugeki MVs buffed 10+60/10+35+60/10+35+60+30 > 10+70/10+45+70/10+45+70+40  <br>
+Round force build up increased 250/250/290 [500/500/548] > 340/400/500 [575/628/718]  <br>
+Shoryugeki MVs buffed 10+60/10+35+60/10+35+60+30 > 10+70/10+45+70/10+45+70+40, stagger mod increased 1 > 1,5  <br>
 Shoruigeki III KO and exhaust increased 0+100+50+50KO > 0+100+75+75KO, 0+50+40+40ex > 0+60+45+45ex  <br>
-Chaos Oil build up increased 920/1000/1000 [1304/1400/1400] > 920/1000/1250 [1304/1400/1700]  <br>
+Chaos Oil build up increased 920/1000/1000 [1304/1400/1400] > 920/1000/1250 [1113/1189/1431]  <br>
 
 ## Hammer
 
@@ -85,8 +93,40 @@ Valor Charge 3 15+85/20+105 > 15+85/20+115  <br>
 ### Hunter Arts:
 Spinning Meteor 20x2+15+110/20x3+15+125/20x4+15+165 > 25x2+15+130/25x3+20+145/25x4+25+175, Exhaust Increased 15x2+10+30/15x3+10+30/15x4+10+40 > 18x2+10+40/18x3+15+55/18x4+20+70  <br>
 Provoke Duration Increased 30/60/60s > 60/60/90s  <br>
-Typhoon Trigger Damage Increased 5x6+20+50/60/80 > 8x6+25+50+60/70/90, KO Increased 2x6+40+60/100/125 > 5x6+50+70+100/120/140, Build Up Increased 250/330/420 [500/596/704] > 430/550/640 [1004/1100/1196]  <br>
+Typhoon Trigger Damage Increased 5x6+20+50/60/80 > 8x6+25+50+60/70/90, KO Increased 2x6+40+60/100/125 > 5x6+50+70+100/120/140, Build Up Increased 250/330/420 [500/596/704] > 430/550/640 [654/764/847]  <br>
 Impact Press Damage Increased 6 > 10, KO reduced 12 > 10, Exhaust Increased 4 > 5  <br>
+
+## Hunting Horn
+
+### Attacks:
+Draw Slam 33 > 43   <br>
+Right Swing 30 > 40   <br>
+Right Swing (After any attack) 27 > 38   <br>
+Forward Slam 30 > 40   <br>
+Forward Slam (After any attack) 27 > 38   <br>
+Left Swing 30 > 40   <br>
+Double Swing 12+15 > 16+20   <br>
+Back Swing 45 > 53   <br>
+Swing 'n Slam 15+45 > 20+50   <br> 
+Hilt Jab 10 > 17   <br>
+Recital Right Sweep 35 > 46   <br>
+Recital Kick 20 > 27   <br>
+Recital Back Swing 30 > 40   <br>
+Idle Encore 30 > 40   <br>
+Encore Backswings 40+30 > 46+40   <br>
+Encore Left/right Swings 33+35 > 36+42   <br>
+Jump Swing 36 > 47   <br>
+Aerial Double Swings 12+22 > 26+44   <br>
+Adept Triple Swings 15+20+30 > 20+30+35   <br>
+Adept Recital 38 > 60   <br>
+Valor Recital 30+10 > 40+13   <br>
+Valor Encore 45+15 > 50+20   <br>
+
+### Hunter Arts:
+Euphony build up increased 590/630/670 [958/956/1004] > 700/750/800 [903/951/998]   <br>
+Sonic Smash damage increased 5x2/5x2/5x4 > 20x2/30x2/30x4, finisher damage, KO, and exhaust increased 30/35/38 > 40/60/100, 10/10/10KO > 40/60/100KO, 10/10/10ex > 60/80/120ex, and build up decreased 830/1000/1070 [1196/1400/1604] > 630/670/790 [838/875/989]    <br>
+Harmonize duration buffed 60/90/120s > 90/120/150s, and build up increased 420/580/670 [704/896/1004] > 580/690/800 [791/894/998]    <br>
+Invigoration duration buffed 90/120/150s > 120/150/180s, Recital damage and buffed 38 > 60, and build up increased 420/500/580 [704/800/896] > 500/580/690 [718/791/894]   <br>
 
 ## Lance
 
@@ -109,6 +149,65 @@ Valor Style GP shield bash 20 > 30. KO and Exhaust 27 > 35  <br>
 Shield Assault MVs buffed, charge 10 > 15, shield Attack 30 > 60 exhaust and KO 27 > 70, Lance Attack 50 > 85  <br>
 Corkscrew Jab 45x3/32x5/27x7 > 50x3/35x5/30x7  <br>
 Enraged Guard 1.1/1.2/1.3 > 1.05/1.1/1.15  <br>
+
+## Gunlance
+
+### Attacks:
+Draw attack/Running Upswing 28 > 34  <br>
+Post-Shell Upswing 27 > 32  <br>
+Upswing 25 > 30  <br>
+Thrust 21 > 28  <br>
+Slam 36 > 43  <br>
+Guard Thrust 16 > 20  <br>
+Jumping Thrust 22 > 27  <br>
+Jumping Slam 36 > 48  <br>
+Jumping Reload Slam 40 > 48  <br>
+Striker 3rd Thrust 24 > 29  <br>
+Aerial Slam 36 > 48  <br>
+Aerial Reload Slam 40 > 48  <br>
+Adept/Valor Upswing 40 > 48  <br>
+Adept/Valor Reload Upswing 37 > 48  <br>
+Adept Slam 50 > 60  <br>
+
+### Shellings:
+All shelling attacks now deal fixed blast status instead of fixed fire to make them better against more monsters. Blast values are 2x the previous fire damage for all shelling attacks except wide shelling where it's 4x  <br>
+Normal shelling 3/4/5 damage increased 18/21/24 > 20/26/38  <br>
+Wide shelling 3/4/5 damage increased 40/44/48 > 48/58/73  <br>
+Long shelling 3/4/5 damage increased 28/32/36 to 34/44/60  <br>
+Modifier order is Full burst/Charged Shelling/Wyverfire  <br>
+Normal modifiers changed 1,1/1,2/1 > 1,2/1,3/1  <br>
+Wide modifiers changed 0,85/1,45/1 > 1/1,5/1  <br>
+Long modifiers changed 1/1,2/1,2 > 1/1,25/1,25  <br>
+Wyvernsfire damage increased 25x4/30x4/35x4/40x4/45x4/ > 40x4/46x4/61x4/80x4/95x4  <br>
+Valor rapid fire multiplier changed 1+1,2+1,5+2+2,6+2,6 > 2+1,75+1,5+1,25+1+1  <br>
+Valor full burst modifier changed 0,8+0,9+1+1,4+1,5+1,6 > 0,9+0,9+0,9+0,9+0,7+0,7  <br>
+
+### Hunter Arts:
+Dragon Blast first hit damage increased 48/49/50 > 150/200/250, repeating hits damage increased 3/6/9 > 10/15/20. Damage Formula is 1st hit x (1 + weaponRaw x 0.7/100) + 3 x (repeating hit x (1 + weaponRaw x 0.2/100)), build up increased 830/1000/1250 [1196/1400/1700] > 1180/1280/1370 [1363/1460/1548]  <br>
+Blast Dash second hit damage increased 50 > 60, shell damage increased 24 > 35, and build up increased 250/290/330 [500/548/596] > 320/360/400 [558/592/628]  <br>
+Dragon breath's extra hit damage increased 10 > 15, fixed fire replaced by blast, build up increased 1080/1170/1250 [1496/1604/1700] > 1180/1280/1370 [1363/1460/1548]  <br>
+
+### Weapons:
+Shelling buffs are applied to the final level/s  <br>
+Maccao GL 3 > 4  <br>
+Fiore Nulo GL 3 > 4  <br>
+Fiore Nulo (G) GL 3 > 4  <br>
+Fiore Nulo (R) GL 3 > 4  <br>
+Baa Baa GL 3/3 > 4/5  <br>
+Kamak GL 3/4 > 4/5  <br>
+Teostra GL 1/1/1/1/1/1 > 1/1/2/2/3/4  <br>
+Nakarkos GL 4 > 5  <br>
+Worn GL 3/4 > 4/5  <br>
+Giadrome GL 3/4 > 4/5  <br>
+Nerscylla GL 3/4 > 4/5  <br>
+Deviljho GL 3 > 4  <br>
+Hyper Barroth GL 4 > 5  <br>
+Dreadqueen GL 4 > 5  <br>
+Drilltusk GL 3 > 4  <br>
+Grimclaw GL 4 > 5, also gave dragon element 20/21/22/23/24/25/26/27/28/29/30/33/35/37/39  <br>
+Nightcloak GL 4 > 5  <br>
+Boltreaver GL 4 > 5  <br>
+Bloodbath GL 4 > 5  <br>
 
 ## Switch Axe
 
@@ -143,15 +242,14 @@ Bold numbers refer to Tempest Axe/Demon Riot extensions  <br>
 Full Trance Slash total MVs 353/442/494 > 450/543/634  <br>
 Normal Trance Slash explosions 80/90/100 > 90/100/110  <br>
 Normal Trance Slash total MVs 263/332/384 > 294/367/438   <br>
-Trance slash build up increased 670/750/830 [1004/1100/1196] > 1080/1180/1300 [1496/1544/1754]  <br>
-Energy Charge build up increased (to combat MV buffs) 500/650/850 [800/980/1220] > 600/750/950 [950/1150/1315]  <br>
+Trance slash build up increased 670/750/830 [1004/1100/1196] > 1250/1400/1570 [1431/1577/1743]   <br>
 Tempest Axe Finisher 15+55 > 15+75  <br>
 Tempest Axe move speed multiplier increased 2 > 3  <br>
 
 ### Weapons:
 Doubled element on all elemental phial switch axes  <br>
 Doubled status on paralysis/poison phial switch axes   <br>
-For switch axes with Elemental phial and status I made their status similar to having demon Riot III active previously  <br>
+For switch axes with Elemental phial and status I made their swordm mode status similar to having demon Riot III active previously  <br>
 Glavenus Axe: 1 Slot > 2 Slot to final level  <br>
 Deviljho: Gave Power phial and dragon element (2x dragon phial)  <br>
 Savage jho: gave power phial and dragon element (2x dragon phial)  <br>
@@ -271,10 +369,10 @@ Adept Slam Kinsect 30 > 60  <br>
 
 ### Hunter Arts:
 To balance MVs buffs all HAs get increased build up
-Extract Hunter buff duration increased 30/60/90 > 60/90/120, build up increased 700/900/1000 [1040/1280/1400] > 805/1035/1150 [1196/1472/1610]  <br>
-Swarm damage Increased 5 > 8 with no extract, and 6 > 12, level 3 duration increased 60s > 90s, build up increased 1000/1080/1250 [1400/1496/1700] > 1150/1242/1437 [1610/1720/1955]  <br>
-Bug Blow finisher damage increased 80/105/120 > 90/120/150, finisher stagger mod increased 1/1/1 > 1,5/1,75/2 (same for bug blow+swarm), build up increased 580/670/750 [896/1004/1100] > 667/770/862 [1030/11541265]  <br>
-Bug Majeure Combo damage increased 60+25+35 > 85+50+60, build up increased 1080/1170/1250 [1496/1604/1700] > 1242/1345/1437 [1720/1844/1955]  <br>
+Extract Hunter buff duration increased 30/60/90 > 60/90/120, build up increased 700/900/1000 [1040/1280/1400] > 805/1035/1150 [998/1170/1334]   <br>
+Swarm damage Increased 5 > 8 with no extract, and 6 > 12, level 3 duration increased 60s > 90s   <br>
+Bug Blow finisher damage increased 80/105/120 > 90/120/150, finisher stagger mod increased 1/1/1 > 1,5/1,75/2 (same for bug blow+swarm), build up increased 580/670/750 [896/1004/1100] > 667/770/862 [866/970/1055]  <br>
+Bug Majeure Combo damage increased 60+25+35 > 85+50+60, build up increased 1080/1170/1250 [1496/1604/1700] > 1242/1345/1437 [1421/1519/1606]  <br>
 
 ## Palico/Prowler
 

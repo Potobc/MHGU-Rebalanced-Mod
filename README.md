@@ -529,7 +529,7 @@ Beast: Recovery Speed Up > Extend Beast (Recovery Speed Up replace biology in C 
 Replaced Goldenfish Catcher, Negate Confusion and wind, Stamina Drain, and Non-stick fur, with an elemental boost skill (ice, water, and dragon boost, megaflare, and nagatobimaru), and made them 1 cost.   <br>
 
 Optional since the game does have a sanity check and will unequip moves/skills if you have any illegal ones, so you will have to use a save editor or grind if you want to use these changes.  <br>
-To install it download the resident.arc file and replace the file of the same name inside Ryujinx\mods\contents\0100770008dd8000\0100770008DD8000\romfs\nativeNX\loc\arc  <br>
+To install it download the resident.arc file and replace the file of the same name inside Ryujinx\mods\contents\0100770008dd8000\GU rebalanced\romfs\nativeNX\loc\arc  <br>
 
 # Credits:  <br>
 Marie • マリー. Responsible for basically all the palico changes not taken from cope.  <br>

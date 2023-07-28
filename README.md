@@ -3,9 +3,12 @@
 This mod mainly buffs low/mid tier weapons to make them comparable to high tier ones.   <br>
 For Palicoes/Prowlers we made each bias have a more defined role while keeping their offensive capabilities relatively the same. <br>
 
-To install it, extract it to your mods folder if you are using ryujinx (should look like this: Ryujinx\mods\contents\0100770008dd8000\0100770008DD8000), or to the mhgu folder in atmosphere/contents if you are using a modded switch (should look like this: atmosphere/contents/0100770008dd8000/0100770008DD8000), doesn’t work on yuzu. Also remember to back up your save file.  <br>
+To install extract it to your mods folder if you are using ryujinx (should look like this: mods\contents\0100770008dd8000\GU rebalanced), or to the mhgu folder in atmosphere\contents if you are using a modded switch (should look like this: atmosphere\contents\0100770008dd8000\GU rebalanced), doesn’t work on yuzu. 
+If you had an older version of the mod first delete the folder called 0100770008DD8000 and then extract the new version in the same folder.   <br>
 
-If you have any suggestions leave them in the issues page, or DM me at potobc  <br>
+Remember to back up your save file.    <br>
+
+If you have any suggestions leave them in the issues page, or DM me at potobc.  <br>
 
 Also available on Gamebanana https://gamebanana.com/mods/447835   <br>
 
@@ -15,6 +18,13 @@ Adjusted SP mode cost increase   <br>
 ![imagen](https://github.com/Potobc/MHGU-Rebalanced-Mod/assets/121890308/745bf5d0-9ff4-4ac9-b4fb-b5314aa0e056)   <br>
 Alchemy Fireball fixed damage increased 60 > 150, stagger mod increased 1,3 > 1,6 (240 part damage per fireball)   <br>
 
+### Non-Weapon Specific Hunter Arts: 
+Heal Gain 830 [1196] > 570 [782]   <br>
+Hunter's Oasis 1330 [1796] > 860 [1055]   <br>
+Frenzy Fever 830 [1196] > 610 [819]   <br>
+Castle Walls 830 [1196] > 610 [819]   <br>
+Fortress Walls 1080 [1496] > 860 [1055]   <br>
+Arisen Phoenix 1080 [1496] > 540 [754]    <br>
 
 ## Great Sword
 
@@ -69,6 +79,25 @@ Shoryugeki MVs buffed 10+60/10+35+60/10+35+60+30 > 10+70/10+45+70/10+45+70+40, s
 Shoruigeki III KO and exhaust increased 0+100+50+50KO > 0+100+75+75KO, 0+50+40+40ex > 0+60+45+45ex  <br>
 Chaos Oil build up increased 920/1000/1000 [1304/1400/1400] > 920/1000/1250 [1113/1189/1431]  <br>
 
+## Dual Blades
+
+### Attacks:
+Arch Slice I 8+12 > 10+14  <br>
+Arch Slice II 7+10 > 12+16  <br>
+Double Arch Slashes 10+13x2 > 12+15x2  <br>
+Right Arch Side Slashes 7+10 > 11+15	  <br>
+Left Arch Side Slashes 9+12 >11+15   <br>
+Arch Spinning Slashes 16+6+8+18+6+10 > 19+9+11+21+9+13  <br>
+Arch Hurricane Dance 8x4+20x2 > 11x4+24x2  <br>
+All non-style specific attacks in archdemon mode get an increased elemental mod 1 > 1,1   <br>
+Alchemy gauge gen increased by 50% for all attacks (includes HAs)  <br>
+
+### Hunter Arts:
+Blood wind spin elemental modifier increased 1 > 1,1  <br>
+Wolf's maw multiplier reduced 20/25/30% > 15/17,5/20%, buildup reduced 1250/1500/1670 [1700/2000/2204] > 1080/1170/1350 [1267/1354/1528]  <br>
+Aerial Slam Increased damage 80/110/150 > 130/160/200, finisher stagger mod increased 1,5 > 2, stagger mod for spins reduced to 0 (to avoid missing due to a flinch)  <br>
+Spiral slash spin damage increased 10 > 15, elemental modifier increased 0,5 > 1,2 for spins, and 1 > 2 for finisher, stagger modifier for spins reduced 0,9 > 0 (to avoid breaking parts before finishing), and stagger modifier for finisher increased 2/2/2 > 2/2,8/3 (to make up for the lost part damage)  <br>
+
 ## Hammer
 
 ### Attacks:
@@ -94,7 +123,7 @@ Valor Charge 3 15+85/20+105 > 15+85/20+115  <br>
 Spinning Meteor 20x2+15+110/20x3+15+125/20x4+15+165 > 25x2+15+130/25x3+20+145/25x4+25+175, Exhaust Increased 15x2+10+30/15x3+10+30/15x4+10+40 > 18x2+10+40/18x3+15+55/18x4+20+70  <br>
 Provoke Duration Increased 30/60/60s > 60/60/90s  <br>
 Typhoon Trigger Damage Increased 5x6+20+50/60/80 > 8x6+25+50+60/70/90, KO Increased 2x6+40+60/100/125 > 5x6+50+70+100/120/140, Build Up Increased 250/330/420 [500/596/704] > 430/550/640 [654/764/847]  <br>
-Impact Press Damage Increased 6 > 10, KO reduced 12 > 10, Exhaust Increased 4 > 5  <br>
+Impact Press Damage Increased 6 > 10, Exhaust Increased 4 > 5  <br>
 
 ## Hunting Horn
 
@@ -186,6 +215,7 @@ Valor full burst modifier changed 0,8+0,9+1+1,4+1,5+1,6 > 0,9+0,9+0,9+0,9+0,7+0,
 Dragon Blast first hit damage increased 48/49/50 > 150/200/250, repeating hits damage increased 3/6/9 > 10/15/20. Damage Formula is 1st hit x (1 + weaponRaw x 0.7/100) + 3 x (repeating hit x (1 + weaponRaw x 0.2/100)), build up increased 830/1000/1250 [1196/1400/1700] > 1180/1280/1370 [1363/1460/1548]  <br>
 Blast Dash second hit damage increased 50 > 60, shell damage increased 24 > 35, and build up increased 250/290/330 [500/548/596] > 320/360/400 [558/592/628]  <br>
 Dragon breath's extra hit damage increased 10 > 15, fixed fire replaced by blast, build up increased 1080/1170/1250 [1496/1604/1700] > 1180/1280/1370 [1363/1460/1548]  <br>
+AA Flare wide and long shelling deal 2x damage, normal shelling deals 1,8x damage, build up increased 400/460/520 [680/752/824] > 480/560/670 [699/773/875]  <br>
 
 ### Weapons:
 Shelling buffs are applied to the final level/s  <br>
@@ -212,11 +242,15 @@ Bloodbath GL 4 > 5  <br>
 ## Switch Axe
 
 ### Axe Attacks:
+Overhead Slash stagger mod 1 > 1,5  <br>
 Side Slash and morphing Side slash 23 > 33  <br>
-Upswing 32 > 42  <br>
+Upswing 32 > 42, stagger mod 1 > 1,3  <br>
 Forward Thrust 19 > 25  <br>
-Wild Sweep and Adept Wild Sweep 25+30+40 > 25+45+40  <br>
+Wild Swing elemental mod 1 > 0,8  <br>
+Wild Sweep and Adept Wild Sweep 25+30+40 > 25+40+30, stagger mod 1+1+1 > 1,1+1,2+1,15  <br>
 Axe attacks give 50% extra Alchemy gauge  <br>
+All the other axe attacks get a 1,1 stagger mod  <br>
+
 
 ### Sword Attacks:
 Elemental Discharge Ticks 13 > 15  <br>
@@ -225,13 +259,13 @@ Elemental Discharge Explosion (Cancel) 50 > 60  <br>
 Jumping Downslash 30 > 40  <br>
 Aerial upslash 35 > 45  <br>
 Adept Slashes 25x2 > 35x2  <br>
-Valor Double Discharge 40+60 > 30+50  <br>
 Other sword moves got +10% MVs rounded up  <br>
 Elemental Discharge Explosion (and cancel) give 50% extra Alchemy gauge  <br>
 
 ### Phials:
 Power phial multiplier decreased 1,2 > 1,15   <br>
 Elemental phial multiplier increased 1,25 > 2   <br>
+Poison and Paralysis phials now apply double their status (basically 2/3 chance of applying previous status value)   <br>
 
 ### Hunter Arts:
 Demon riot no longer buffs phials, but duration increased 105/120/105s > 120/150/180s  <br>
@@ -243,12 +277,10 @@ Full Trance Slash total MVs 353/442/494 > 450/543/634  <br>
 Normal Trance Slash explosions 80/90/100 > 90/100/110  <br>
 Normal Trance Slash total MVs 263/332/384 > 294/367/438   <br>
 Trance slash build up increased 670/750/830 [1004/1100/1196] > 1250/1400/1570 [1431/1577/1743]   <br>
-Tempest Axe Finisher 15+55 > 15+75  <br>
-Tempest Axe move speed multiplier increased 2 > 3  <br>
+Tempest Axe move speed multiplier increased 2 > 3, Finisher damage increased 15+55 > 15+75, stagger mod changed 1+1,3 > 0+1,6  <br>
 
 ### Weapons:
 Doubled element on all elemental phial switch axes  <br>
-Doubled status on paralysis/poison phial switch axes   <br>
 For switch axes with Elemental phial and status I made their swordm mode status similar to having demon Riot III active previously  <br>
 Glavenus Axe: 1 Slot > 2 Slot to final level  <br>
 Deviljho: Gave Power phial and dragon element (2x dragon phial)  <br>
@@ -353,14 +385,14 @@ Marker Bash 10 > 15  <br>
 Forward thrust 12 (15+9) > 13 (16+10)  <br>
 Sweep ‘n Swipe 23+17 (25+13+15) > 25+19 (27+14+16)  <br>
 Wide Sweep 23 (13+23) > 25 (14+25)  <br>
-Double Lateral 15+21 (13+11+25) > 16+23 (14+12+27)  <br>
+Double Lateral 15+21 (13+11+25) > 17+25 (18+16+30)  <br>
 Round Slash 23 (25+27) > 25 (27+30)  <br>
 Double Lunge 27 (21+35) > 30 (25+38)  <br>
 Backflip 17 (13+13) > 19 (14+14)  <br>
 Jumping Slash 21 (17+7) > 23 (19+9)  <br>
 Aerial Spin Assault 17 > 24  <br>
 Adept Slam 30 > 40  <br>
-Adept Roundhouse 35 > 48  <br>
+Adept Roundhouse 35 > 52  <br>
 
 ### Kinsect Attacks:
 Send Kinsect 22 > 45  <br>
@@ -373,6 +405,9 @@ Extract Hunter buff duration increased 30/60/90 > 60/90/120, build up increased 
 Swarm damage Increased 5 > 8 with no extract, and 6 > 12, level 3 duration increased 60s > 90s   <br>
 Bug Blow finisher damage increased 80/105/120 > 90/120/150, finisher stagger mod increased 1/1/1 > 1,5/1,75/2 (same for bug blow+swarm), build up increased 580/670/750 [896/1004/1100] > 667/770/862 [866/970/1055]  <br>
 Bug Majeure Combo damage increased 60+25+35 > 85+50+60, build up increased 1080/1170/1250 [1496/1604/1700] > 1242/1345/1437 [1421/1519/1606]  <br>
+
+### Weapons:
+All glaives get their element increased by 1,5x  <br>
 
 ## Palico/Prowler
 
@@ -505,4 +540,4 @@ Everyone who worked on the mhxx and mhgu modding wiki. Showed where to find and 
 Awesomeosity. Used their guides to know attacks MVs and names. [Link](https://drive.google.com/drive/folders/117JR73W79j0ToZ0TyVFRPNm_hFGX44Hj)  <br>
 Everyone who worked on Kiranico. Used for finding IDs when editing weapons. [Link](https://mhgu.kiranico.com/)  <br>
 iSharingan. Used their spreadsheet to know palico gauge modifiers. [Link](https://docs.google.com/spreadsheets/d/1D7IaRnsc3Jv3ce-RGHB0tJV-ArvNZbrHP-w9ZRIBBAQ/edit)  <br>
-Monkbreh (github: Monkbreh). Helped with move identification and told me where to find valor style changes (haven't made these yet) [Link](https://github.com/Monkbreh)  <br>
+Monkbreh (github: Monkbreh). Helped with move identification and told me where to find valor style changes [Link](https://github.com/Monkbreh)  <br>

@@ -43,7 +43,7 @@ Lion’s Maw build up increased 290/350/500 [548/620/800] > 370/450/580 [601/672
 Brimstone Slash MVs buffed 130/150/175/190 > 130/160/190/210   <br>
 Moonbreaker MVs buffed 60/12+70/10+12+80 > 75/10+85/10+12+95  <br>
 
-## Sword and shield:
+## Sword and Shield
 
 ### Attacks:
 Rush Slash 18 > 20  <br>

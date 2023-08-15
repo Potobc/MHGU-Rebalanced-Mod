@@ -6,6 +6,8 @@ For Palicoes/Prowlers we made each bias have a more defined role while keeping t
 To install extract it to your mods folder if you are using ryujinx (should look like this: mods\contents\0100770008dd8000\GU rebalanced), or to the mhgu folder in atmosphere\contents if you are using a modded switch (should look like this: atmosphere\contents\0100770008dd8000\GU rebalanced), doesn’t work on yuzu. 
 If you had an older version of the mod first delete the folder called 0100770008DD8000 and then extract the new version in the same folder.   <br>
 
+For the 3DS XX version, if you are using citra just extract the mod and place the romfs folder into the XX mods folder (should look like this: Citra\load\mods\0004000000197100\romfs). If you are using a modded 3DS place the romfs folder into the XX titles folder (should look like this: luma\titles\0004000000197100\romfs)
+
 Remember to back up your save file.    <br>
 
 If you have any suggestions leave them in the issues page, or DM me at potobc.  <br>
@@ -529,7 +531,7 @@ Beast: Recovery Speed Up > Extend Beast (Recovery Speed Up replace biology in C 
 Replaced Goldenfish Catcher, Negate Confusion and wind, Stamina Drain, and Non-stick fur, with an elemental boost skill (ice, water, and dragon boost, megaflare, and nagatobimaru), and made them 1 cost.   <br>
 
 Optional since the game does have a sanity check and will unequip moves/skills if you have any illegal ones, so you will have to use a save editor or grind if you want to use these changes.  <br>
-To install it download the resident.arc file and replace the file of the same name inside Ryujinx\mods\contents\0100770008dd8000\GU rebalanced\romfs\nativeNX\loc\arc  <br>
+To install it, download the optional changes and replace the resident.arc file inside GU rebalanced\romfs\nativeNX\loc\arc, or luma\titles\0004000000179800\romfs\arc with the one from the optional changes folder.  <br>
 
 # Credits:  <br>
 Marie • マリー. Responsible for basically all the palico changes not taken from cope.  <br>
@@ -538,6 +540,8 @@ Kurrimu2 devs. Used it to extract and replace game files. [Link](https://github.
 Aradi and everyone who worked on the cope mod. Used their files to know where stuff was, and ~~stole~~ got a lot of changes from them. [Link](https://github.com/Aradi147/MHGUCope)  <br>
 Everyone who worked on the mhxx and mhgu modding wiki. Showed where to find and how to edit weapons base stats. [Link](https://github.com/GReinoso96/XXModding/wiki/Weapons)  <br>
 Awesomeosity. Used their guides to know attacks MVs and names. [Link](https://drive.google.com/drive/folders/117JR73W79j0ToZ0TyVFRPNm_hFGX44Hj)  <br>
+Rage Burner for the XX port  <br>
+Klark231, Crosshex, and everyone who worked on the XX translation project, since I used some of their files to have the game in english. [Link](https://gbatemp.net/threads/mhxx-complete-english-patch.609362/)  <br>
 Everyone who worked on Kiranico. Used for finding IDs when editing weapons. [Link](https://mhgu.kiranico.com/)  <br>
 iSharingan. Used their spreadsheet to know palico gauge modifiers. [Link](https://docs.google.com/spreadsheets/d/1D7IaRnsc3Jv3ce-RGHB0tJV-ArvNZbrHP-w9ZRIBBAQ/edit)  <br>
 Monkbreh (github: Monkbreh). Helped with move identification and told me where to find valor style changes [Link](https://github.com/Monkbreh)  <br>

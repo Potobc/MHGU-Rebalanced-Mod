@@ -504,7 +504,6 @@ Charge Kinsect 60 > 80  <br>
 Adept Slam Kinsect 30 > 60  <br>
 
 ### Hunter Arts:
-To balance MVs buffs all HAs get increased build up
 Extract Hunter buff duration increased 30/60/90 > 60/90/120, build up increased 700/900/1000 [1040/1280/1400] >  800/980/1150 [998/1170/1334]   <br>
 Swarm damage Increased 6 > 12, level 3 duration increased 60s > 90s, and now gives 12 HA charge per attack   <br>
 Bug Blow finisher damage increased 80/105/120 > 90/120/150, finisher stagger mod increased 1/1/1 > 1,5/1,75/2 (same for bug blow+swarm), build up increased 580/670/750 [896/1004/1100] > 660/770/860 [866/970/1055] <br>

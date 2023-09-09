@@ -139,7 +139,6 @@ Left Arch Side Slashes 9+12 >11+15   <br>
 Arch Spinning Slashes 16+6+8+18+6+10 > 19+9+11+21+9+13  <br>
 Arch Hurricane Dance 8x4+20x2 > 11x4+24x2  <br>
 All non-style specific attacks in archdemon mode get an increased elemental mod 1 > 1,1   <br>
-Alchemy gauge gen increased by 50% for all attacks (includes HAs)  <br>
 
 ### Hunter Arts:
 Blood wind spin elemental modifier increased 1 > 1,1  <br>

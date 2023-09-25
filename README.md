@@ -44,6 +44,7 @@ Jumping Slash 48 > 56  <br>
 Aerial Draw Slash 48 > 56  <br>
 Aerial charge 57/66/75 > 60/75/90  <br>
 Adept Upswing charge 26/39/52/78 > 48/55/70/85   <br>
+Alchemy side slash 48 > 90   <br>
 
 ### Hunter Arts:
 Ground Slash MVs buffed 50+20x2/50+21x3/50+22x4 > 50+20x2/60+24x3/75+28x4   <br>

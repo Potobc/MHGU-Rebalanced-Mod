@@ -285,11 +285,12 @@ Normal shelling 3/4/5 damage increased 18/21/24 > 20/26/38, HA gen. increased 20
 Wide shelling 3/4/5 damage increased 40/44/48 > 48/58/73, HA gen. increased 40 > 58  <br>
 Long shelling 3/4/5 damage increased 28/32/36 > 34/44/60, HA gen. increased 30 > 44  <br>
 Modifier order is Full burst/Charged Shelling/Wyverfire  <br>
-Normal modifiers changed 1,1/1,2/1 > 1,2/1,3/1  <br>
-Wide modifiers changed 0,85/1,45/1 > 1/1,5/1  <br>
+Normal modifiers changed 1,2/1,2/1 > 1,25/1,25/1  <br>
+Wide modifiers changed 0,9/1,45/1 > 1/1,5/1  <br>
 Long modifiers changed 1/1,2/1,2 > 1/1,25/1,25  <br>
-Wyvernsfire damage increased 25x4/30x4/35x4/40x4/45x4/ > 40x4/46x4/61x4/80x4/95x4, HA gen increased 50x4 > 80x4
+Wyvernsfire damage increased 25x4/30x4/35x4/40x4/45x4/ > 40x4/46x4/61x4/80x4/95x4, HA gen increased 50x4 > 80x4  <br>
 Alchemy Wyvernsfire damage and HA generation increased 50% > 75% (AA Flare wyvernsfire deals full amount as always)  <br>
+Removed cooldown from overheating  <br>
 Valor rapid fire multiplier changed 1+1,2+1,5+2+2,6+2,6 > 0,8+1+1,2+1,4+1,8+1,8  <br>
 Valor full burst modifier changed 0,8+0,9+1+1,4+1,5+1,6 > 0,8+0,9+1+1,1+1,2+,1,3  <br>
 

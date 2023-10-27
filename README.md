@@ -67,13 +67,15 @@ Moonbreaker* 1/1,5/2  <br>
 ## Long Sword
 
 ### Attacks: 
-Side Fade Slashes 24 > 28  <br>
+Overhead Slash 26 > 28  <br>
+Thrust 14 > 15  <br>
+Rising Slash 18 > 20  <br>
 Spirit Roundslash 42 > 55  <br>
 Rushing Spirit Slash 30 > 36  <br>
 Aerial Slashes 10+25 > 15+25  <br>
 Adept Spirit Reckoning 30+80 > 20+70  <br>
 Valor Spirit Slash I 28 > 35  <br>
-Valor Counter 51 > 28  <br>
+Valor Counter 51 > 32  <br>
 Valor Spirit Reckoning 35+60 > 15+60  <br>
 
 ### Hunter Arts:
@@ -101,7 +103,7 @@ Rush Slash/Backstep Attack 18 > 21   <br>
 Shield Combo 10+20 > 20+25   <br>
 Shield Bash 8 > 21   <br>
 Shield Thrust 16 > 30   <br>
-Backstep Charge Attack 20+34 > 28+44, elemental mod 1+1 > 1,1+1,5   <br>
+Backstep Charge Attack 20+34 > 24+40, elemental mod 1+1 > 1,1+1,5   <br>
 Jumping Slash 20 > 25   <br>
 Aerial Rising Slash 25 > 35   <br>
 Adept Backstep Counter 42 > 50, elemental mod 1 > 2   <br>
@@ -129,14 +131,14 @@ Chaos Oil 1 (single hit)  <br>
 ## Dual Blades
 
 ### Attacks:
-Arch Slice I 8+12 > 10+14  <br>
-Arch Slice II 7+10 > 12+16  <br>
-Double Arch Slashes 10+13x2 > 12+15x2  <br>
-Right Arch Side Slashes 7+10 > 11+15	  <br>
-Left Arch Side Slashes 9+12 >11+15   <br>
-Arch Spinning Slashes 16+6+8+18+6+10 > 19+9+11+21+9+13  <br>
-Arch Hurricane Dance 8x4+20x2 > 11x4+24x2  <br>
-All non-style specific attacks in archdemon mode get an increased elemental mod 1 > 1,1   <br>
+Arch Slice I 8+12 > 11+15   <br>
+Arch Slice II 7+10 > 13+17, elemental modifier 1 > 1,2   <br>
+Double Arch Slashes 10+13x2 > 13+16x2, elemental modifier 1 > 1,2   <br>
+Right Arch Side Slashes 7+10 > 12+16   <br>
+Left Arch Side Slashes 9+12 > 12+16   <br>
+Arch Spinning Slashes 16+6+8+18+6+10 > 19+9+11+21+11+13, elemental modifier 1 > 1,2   <br>
+Arch Hurricane Dance 8x4+20x2 > 11x4+24x2, elemental modifier 1x4+1x2 > 1,2x4+1,4x2   <br>
+All other non-style specific attacks in archdemon mode get an elemental mod of 1,1   <br>
 
 ### Hunter Arts:
 Blood wind spin elemental modifier increased 1 > 1,1  <br>
@@ -163,9 +165,8 @@ Charge 3 Idle 15+76 > 20+90, KO 5+27 > 5+35  <br>
 Charge 3 Moving 20+10x4 > 25+13x4, KO 2+2x4 > 10+8x4, Exhaust 2+2x4 > 8+4x4 (finishers stay the same)  <br>
 Striker 3rd Pound 60 > 70, fixed hunter art generation 4 > 70  <br>
 Striker Charge 3 19+86 > 25+95, KO 5+17 > 5+35  <br>
-Aerial Charge 3 60 > 75   <br>
+Aerial Charge 3 60 > 65   <br>
 Aerial Smash 42 > 50   <br>
-Aerial Double Down 35+50 > 35+60  <br>
 Adept Charge 2 38 > 45  <br>
 Adept Rushing Swing 38 > 45  <br>
 Adept Idle Strong Charge 3 20+90 > 20+100, KO 10+27 > 10+40  <br>
@@ -234,10 +235,10 @@ Invigoration 0,2 per hit   <br>
 ## Lance
 
 ### Attacks:
-Mid Thrust 20/20/25 > 25/25/30, elemental mod 1/1/1 > 1,05/1,05/1,1   <br>
-High Thrust 22/22/27 > 25/25/30, elemental mod 1/1/1 > 1,05/1,05/1,1   <br>
-Strong Thrust 16x3 > 22x3, elemental mod 1x3 > 1,1x3   <br>
-Wide Sweep 20 > 35, elemental mod 1 > 1,15   <br>
+Mid Thrust 20/20/25 > 26/26/30, elemental mod 1/1/1 > 1,1/1,1/1,15   <br>
+High Thrust 22/22/27 > 26/26/30, elemental mod 1/1/1 > 1,1/1,1/1,15   <br>
+Strong Thrust 16x3 > 24x3, elemental mod 1x3 > 1,15x3   <br>
+Wide Sweep 20 > 38, elemental mod 1 > 1,35   <br>
 Uncharged Counter Thrust 22 > 25   <br>
 Charged Counter Thrust 50 > 60, elemental mod 1 > 1,5   <br>
 Shield Bash 14 > 24, KO 27 > 45, Exhaust 27 > 25, Stagger mod 1 > 1,2   <br>
@@ -245,14 +246,14 @@ Jumping Thrust 30 > 40   <br>
 Charge elemental mod 1 > 0,8   <br>
 All Charge Finishers elemental mods 1 > 1,5   <br>
 Striker charge finisher 67 > 60, elemental mod 1 > 1,5   <br>
-Aerial triple poke 15x3 > 23x3, elemental mod 1 > 1,1   <br>
+Aerial triple poke 15x3 > 22x3, elemental mod 1 > 1,15   <br>
 Adept Counter Swipes elemental modifier stays at 1,2+1,2   <br>
 Valor shield bash 20 > 25, KO and Exhaust 27 > 35   <br>
 
 ### Hunter Arts:
-Shield Assault MVs buffed, charge 10 > 15, shield Attack 30 > 60 exhaust and KO 27 > 70, Lance Attack 50 > 85  <br>
+Shield Assault MVs buffed, charge 10 > 15, shield Attack 30 > 60, KO and exhaust 27 > 70, Stagger mod 1 > 1,5, Lance Attack 50 > 85, elemental mod 1 > 1,5  <br>
 Corkscrew Jab 45x3/32x5/27x7 > 65x3/45x5/37x7, elemental mod 1/1/1 > 1,5/1,3/1,2  <br>
-Enraged Guard 1.1/1.2/1.3 > 1.05/1.1/1.15  <br>
+Enraged Guard modifiers reduced 1.1/1.2/1.3 > 1.05/1.1/1.15  <br>
 
 ### Alchemy:
 Strong Thrust 0,2  <br>
@@ -336,22 +337,21 @@ AA Flare 1,25 for full burst (assumes load up), and 1,5 for wyvernsfire  <br>
 ## Switch Axe
 
 ### Axe Attacks:
-Overhead Slash stagger mod 1 > 1,5  <br>
-Side Slash and morphing Side slash 23 > 33  <br>
+Overhead Slash stagger mod 1 > 1,3  <br>
+Side Slash and morphing Side slash 23 > 28  <br>
 Upswing 32 > 42, stagger mod 1 > 1,3  <br>
 Forward Thrust 19 > 25  <br>
 Wild Swing elemental mod 1 > 0,85  <br>
-Wild Sweep and Adept Wild Sweep 25+30+40 > 25+40+30, stagger mod 1+1+1 > 1,1+1,2+1,15  <br>
-All the other axe attacks get a 1,1 stagger mod  <br>
+Wild Sweep 25+30+40 > 25+40+30, stagger mod 1+1+1 > 1,1+1,2+1,15  <br>
+All other axe attacks get a 1,1 stagger mod  <br>
 
 
 ### Sword Attacks:
 Elemental Discharge Ticks elemental modifier 1 > 0,7   <br>
 Elemental Discharge Explosion 80 > 90, elemental mod 1 > 2   <br>
 Elemental Discharge Explosion (Cancel) 50 > 60, elemental mod 1 > 1,5   <br>
-Jumping Downslash 30 > 40   <br>
+Jumping Downslash 30 > 35   <br>
 Aerial upslash 35 > 45    <br>
-Adept Slashes 25x2 > 30x2    <br>
 Valor Double Discharge elemental mod 0,6+0,8 > 1+1,5   <br>
 Other sword moves got +10% MVs rounded up   <br>
 
@@ -417,33 +417,39 @@ Yellow shield Buffed 0% > 25%  <br>
 Draw Slash 18 > 22  <br>
 Forward Slice 14 > 17  <br>
 Upward Slice 15 > 18  <br>
-Shield Thrust 8+12 > 12+16   <br>
+Shield Thrust 8+12 > 10+12   <br>
 Morph to Axe Attack 42 > 48  <br>
 Jumping Slash 22 > 26  <br>
 Jumping Morph to Axe Attack 42 > 48  <br>
 Aerial Charge Slash 35 > 40  <br>
+All Sword Attacks get a 0,85 element modifier due to the weapon element buff  <br>
 
 ### Axe Attacks:
 Upswing 33 > 38  <br>
 Downswing 40 > 48  <br>
-Jumping Swing 42 > 48  <br>
+Jumping Swing 42 > 48   <br>
 AED I (No Phials) 18 > 30  <br>
 AED I 20 > 30  <br>
-AED II (No Phials) 15+35 > 20+45  <br>
+AED II (No Phials) 15+35 > 20+55  <br>
+AED II 20+45 > 20+55  <br>
 SAED (No Phials) 60 > 75  <br>
+SAED elemental modifier increased 1 > 2  <br>
 UAED (No Phials) 20+60 > 20+90  <br>
-UAED 25+90 > 25+140  <br>
+UAED 25+90 > 25+140,  elemental modifiers increased 1+1 > 1+3  <br>
 Aerial SAED (No Phials) 42 > 90  <br>
+Aerial SAED elemental modifier increased 1 > 2  <br>
 Aerial UAED (No Phials) 60 > 100  <br>
-Aerial UAED 100 > 130  <br>
-Valor UAED (No Phials) 20+55 > 20+85  <br>
-Valor UAED 25+80 > 25+100  <br>
+Aerial UAED 100 > 130,  elemental modifier increased 1 > 3  <br>
+Valor AED III (No Phials) 15+35 > 20+55  <br>
+Valor UAED (No Phials) 20+55 > 20+75  <br>
+Valor UAED 25+80 > 25+90,  elemental modifiers increased 1+1 > 1+2  <br>
 
 ### Hunter Arts:
-Energy Blade 0 Phials MVs buffed 10/20/30 > 50/60/80  <br>
+Energy Blade 0 Phials MVs buffed 10/20/30 > 50/60/80, elemental modifier increased for 0 phials 1/1/1 > 1/1/2, 1-3 phial 1/1/1 > 2/3/4, 4-6 phials 1/1/1 > 4/5/6, 7-9 phials 1/1/1 > 6/7/8, and 10 phials 1/1/1 > 8/9/10  <br>
 Limit break III duration increased from 150s > 180s  <br>
 
 ### Weapons:
+Chili Axe 200/230/290 > 270/290/340, gave same model as nakarkos CB
 Soulseer CB: Gave element phial, reduced affinity from 20% > 15%  <br>
 Soulseer CB: Element buffed 24/25/26/27/28 > 48/52/56/60/64  <br>
 Grimclaw CB: Gave element phial, dragon element, and same sharpness path as non G-rank  <br>
@@ -480,42 +486,41 @@ Ripper Shield 1/1,25/1,5  <br>
 ## Insect Glaive 
 
 ### Extracts:
-White 90s > 105s  <br>
-Red 60s > 75s  <br>
-Orange 45s > 60s  <br>
+White 90s > 75s  <br>
+Red 60s > 90s  <br>
+Orange 45s > 105s  <br>
 Triple up 60s > 90s  <br>
 
 ### Attacks:
-All red extract attacks and style specific moves get an element mod. of 1,1  <br>
-Parenthesis refer to damage of attack with red extract  <br>
+Parenthesis refer to MVs of attack with red extract  <br>
 Draw Slam 25 > 27  <br>
 Jump slam 21 > 23  <br>
-Marker Bash 10 > 15  <br>
-Forward thrust 12 (15+9) > 13 (16+10)  <br>
-Sweep ‘n Swipe 23+17 (25+13+15) > 25+19 (27+14+16)  <br>
-Wide Sweep 23 (13+23) > 25 (14+25)  <br>
-Double Lateral 15+21 (13+11+25) > 17+25 (18+16+30)  <br>
-Round Slash 23 (25+27) > 25 (27+30)  <br>
-Double Lunge 27 (21+35) > 30 (25+38)  <br>
+Marker Bash 10 > 30  <br>
+Long Swipes 12 (15+9) > 13 (16+10)  <br>
+Upswings 23+17 (25+13+15) > 25+19 (25+14+16)  <br>
+Double Down 23 (13+23) > 25 (14+25)  <br>
+Triple Roundhouse 15+21 (13+11+25) > 17+23 (17+14+28)  <br>
+Double Roundhouse 23 (15+27) > 25 (16+28)  <br>
 Backflip 17 (13+13) > 19 (14+14)  <br>
-Jumping Slash 21 (17+7) > 23 (19+9)  <br>
+Double Jumping Strikes 21 (17+7) > 23 (19+9)  <br>
 Aerial Spin Assault 17 > 24  <br>
-Adept Slam 30 > 40  <br>
-Adept Roundhouse 35 > 52  <br>
+Adept Slam 30 > 34  <br>
+Adept Roundhouse 35 > 42  <br>
+All attacks while having red extract get an element modifier of 1,15  <br>
 
 ### Kinsect Attacks:
 Send Kinsect 22 > 45  <br>
 Charge Kinsect 60 > 80  <br>
 Adept Slam Kinsect 30 > 60  <br>
 
+### Kinsect Changes:
+![image1](https://github.com/Potobc/MHGU-Rebalanced-Mod/assets/121890308/2ee11f3c-e36f-49b0-8495-b8e583c6a323)  <br>
+
 ### Hunter Arts:
 Extract Hunter buff duration increased 30/60/90 > 60/90/120, build up increased 700/900/1000 [1040/1280/1400] >  800/980/1150 [998/1170/1334]   <br>
 Swarm damage Increased 6 > 12, level 3 duration increased 60s > 90s, and now gives 12 HA charge per attack   <br>
-Bug Blow finisher damage increased 80/105/120 > 90/120/150, finisher stagger mod increased 1/1/1 > 1,5/1,75/2 (same for bug blow+swarm), build up increased 580/670/750 [896/1004/1100] > 660/770/860 [866/970/1055] <br>
+Bug Blow finisher MVs increased 80/105/120 > 90/120/150, elemental modifiers increased 1/1/1 > 2/3/4, stagger mod increased 1/1/1 > 1,5/1,75/2, the extra attack from Swarm has the same properties depending on Swarm's level, and build up increased 580/670/750 [896/1004/1100] > 660/770/860 [866/970/1055]  <br>
 Bug Majeure Combo damage increased 60+25+35 > 85+50+60, build up increased 1080/1170/1250 [1496/1604/1700] > 1240/1340/1430 [1421/1519/1606]  <br>
-
-### Weapons:
-All glaives get their element increased by 1,5x  <br>
 
 ### Alchemy:
 Double Lateral 0,1 (0,2)  <br>

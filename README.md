@@ -2,9 +2,11 @@
  
 This mod intends to balance the game in order to reduce the power gap between weapons and styles. Palicoes/Prowlers were also changed to give each bias a more defined role.  <br>
 
-To install extract it to your mods folder if you are using ryujinx (should look like this: mods\contents\0100770008dd8000\GU rebalanced), or to the mhgu folder in atmosphere\contents if you are using a modded switch (should look like this: atmosphere\contents\0100770008dd8000\GU rebalanced), doesn’t work on yuzu. 
+To install extract it to your mods folder if you are using ryujinx (should look like this: mods\contents\0100770008dd8000\GU rebalanced), or to the mhgu folder in atmosphere\contents if you are using a modded switch (should look like this: atmosphere\contents\0100770008dd8000\GU rebalanced), doesn’t work on yuzu.    <br>
 
-For the 3DS XX version, if you are using citra just extract the mod and place the romfs folder into the XX mods folder (should look like this: Citra\load\mods\0004000000197100\romfs). If you are using a modded 3DS place the romfs folder into the XX titles folder (should look like this: luma\titles\0004000000197100\romfs)
+If you downloaded the HD mod compatible version you just have to replace the resident.arc file (located in: GU rebalanced\romfs\nativeNX\loc\arc) with the appropriate one depending on your preferred button layout.    <br>
+
+For the 3DS XX version, if you are using citra just extract the mod and place the romfs folder into the XX mods folder (should look like this: Citra\load\mods\0004000000197100\romfs). If you are using a modded 3DS place the romfs folder into the XX titles folder (should look like this: luma\titles\0004000000197100\romfs)   <br>
 
 Remember to back up your save file.    <br>
 

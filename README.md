@@ -43,7 +43,6 @@ Alchemy Item changes    <br>
 
 ### Non-Weapon Specific Hunter Arts: 
 Heal Gain build up reduced 830 [1196] > 570 [782]   <br>
-Escape Runner duration increased 30s > 90s    <br>
 Hunter's Oasis build up reduced 1330 [1796] > 860 [1055]   <br>
 Frenzy Fever build up reduced 830 [1196] > 610 [819]   <br>
 Castle Walls build up reduced 830 [1196] > 610 [819]   <br>
@@ -53,21 +52,24 @@ Arisen Phoenix build up reduced 1080 [1496] > 540 [754]   <br>
 ## Great Sword
 
 ### Attacks:
-Charge 48/65/80/100 > 58/75/90/110   <br>
-Strong Charge/Valor Strong Charge 52/72/90/120 > 65/80/95/125   <br>
-Jumping Slash 48 > 56   <br>
+Rising Slash 44 > 52   <br>
+Side Slash 32 > 40   <br>
+Charge 48/65/80/100 > 58/75/90/110, ailment modifier 1/1/1/1 > 1,3/1,5/1,8/2,1   <br>
+Strong Charge/Valor Strong Charge 52/72/90/120 > 65/80/100/125, ailment modifier 1/1/1/1 > 1,4/1,6/2/2,4   <br>
+Strong Side Slash ailment modifier 1/1/1/1 > 1,2/1,4/1,6/1,9   <br>
 Aerial Draw Slash 48 > 60   <br>
-Aerial charge 57/66/75 > 65/80/95   <br>
-Adept Upswing charge 26/39/52/78 > 48/55/70/85    <br>
-Valor Draw Slash 52/62/85/115 > 52/62/70/85   <br>
-Valor Charge Dash 48/65/81/112 > 52/72/90/120   <br>
-Alchemy side slash 48 > 90   <br>
+Aerial charge 57/66/75 > 65/80/95, ailment modifier 1/1/1 > 1,4/1,75/2   <br>
+Adept Upswing charge 26/39/52/78 > 48/55/65/80, ailment modifier 1/1/1/1 > 1,2/1,3/1,4/1,6   <br>
+Valor Draw Slash 52/62/85/115 > 52/62/70/85, ailment modifier 1/1/1/1 > 1,2/1,3/1,4/1,6   <br>
+Valor Charge Dash 48/65/81/112 > 52/72/90/120, ailment modifier 1/1/1/1 > 1,3/1,6/1,8/2,2   <br>
+Alchemy side slash 48 > 90, ailment modifier 1 > 2,4   <br>
+All other attacks get a 1,3 ailment modifier   <br>
 
 ### Hunter Arts:
-Ground Slash MVs buffed 50+20x2/50+21x3/50+22x4 > 65+14x2/85+17x3/110+20x4   <br>
-Lion’s Maw multiplier buffed 1,1/1,2/1,33 > 1,2/1,4/1,6 and build up increased 290/350/500 [548/620/800] > 370/450/580 [601/672/791]  <br>
-Brimstone Slash MVs buffed 130/150/175/190 > 160/180/210/250, max charge time increased 8s > 12s  <br>
-Moonbreaker MVs buffed 60/12+70/10+12+80 > 75/10+85/10+12+100, stagger modifiers increased 1,5/0,9+2/0,9+0,9+2,5 > 2/0,9+2,5/0,9+0,9+3, and build up increased 420/500/830 [704/800/1196] > 630/710/830 [838/913/1027]  <br>
+Ground Slash 50+20x2/50+21x3/50+22x4 > 65+14x2/85+17x3/110+20x4, ailment modifier 1+1x2/1+1x3/1+1x4 > 1,3+1x2/1,7+1x3/2,2+1x4    <br>
+Lion’s Maw multiplier buffed 1,1/1,2/1,33 > 1,2/1,4/1,6, ailment modifier 1/1/1 > 1,2/1,3/1,4, and build up increased 290/350/500 [548/620/800] > 370/450/580 [601/672/791]   <br>
+Brimstone Slash 130/150/175/190 > 160/180/210/250, max charge time increased 8s > 12s, ailment modifier 1/1/1/1 > 2,5/3,5/4,5/6   <br>
+Moonbreaker 60/12+70/10+12+80 > 75/10+85/10+12+100, ailment modifier 1/1+1/1+1+1 > 1,5/1+1,7/1+1+2, stagger modifiers 1,5/0,9+2/0,9+0,9+2,5 > 2/0,9+2,5/0,9+0,9+3, and build up increased 420/500/830 [704/800/1196] > 630/710/830 [838/913/1027]   <br>
 
 ### Alchemy:
 Alchemy side slash 0,35  <br>
@@ -90,20 +92,29 @@ Moonbreaker 4,5/6/7,5s  <br>
 ## Long Sword
 
 ### Attacks: 
-Overhead Slash 26 > 28   <br>
-Thrust 14 > 15   <br>
-Rising Slash 18 > 20   <br>
-Spirit Roundslash 42 > 55   <br>
-Rushing Spirit Slash 30 > 36   <br>
-Aerial Slashes 10+25 > 15+25   <br>
-Adept Spirit Reckoning 30+80 > 20+70   <br>
-Valor Spirit Slash I 28 > 35   <br>
-Valor Counter 51 > 32   <br>
-Valor Spirit Reckoning 35+60 > 15+60    <br>
+Overhead Slash 26 > 28  <br>
+Thrust 14 > 15  <br>
+Rising Slash 18 > 20  <br>
+Spirit Slash I 28 > 32  <br>
+Spirit Slash II 30 > 36  <br>
+Spirit Slash III ailment modifier 1+1+1 > 1,2+1,2+1,4  <br>
+Spirit Roundslash 42 > 55, ailment modifier 1 > 1,8  <br>
+Red Aura Spirit Roundslash 42 > 60, ailment modifier 1 > 2,2  <br>
+Rushing Spirit Slash 30 > 38   <br>
+Aerial Slashes 10+25 > 15+25  <br>
+Aerial Spirit Slash III ailment modifier 1+1+1 > 1,2+1,2+1,4  <br>
+Adept Spirit Reckoning 30+80 > 20+70, ailment modifier 1+1 > 1+2  <br>
+Valor Spirit Slash I 28 > 35  <br>
+Valor Counter 51 > 42  <br>
+Valor Spirit Reckoning 35+60 > 20+60, ailment modifier 1+1 > 1+2  <br>
+Regular attacks get a 1,2 ailment modifier (same boost raw gets with red aura)  <br>
+All other Spirit Slashes get a 1,4 ailment modifier (same boost raw gets with all modifiers)  <br>
 
 ### Hunter Arts:
-Unhinged spirit cost increased 420/500/580 [704/800/896] > 500/580/690 [718/791/894]   <br>
-Devouring demon multiplier reduced 1.1/1,2/1,3 > 1,1/1,15/1,2, and duration increased 75/60/45 > 105/90/75  <br>
+Sakura Slash ailment modifiers for blade attacks 1 > 1,5  <br>
+Unhinged Spirit build up increased 420/500/580 [704/800/896] > 580/650/760 [718/791/894]  <br>
+Critical Juncture ailment modifiers 1/1/1 > 3/4/5  <br>
+Devouring Demon multiplier reduced 1,1/1,2/1,3 > 1,1/1,15/1,2, and duration increased 75/60/45 > 105/90/75  <br>
 
 ### Alchemy:
 Spirit Slash I 0,1  <br>
@@ -215,37 +226,44 @@ Spiral Slash 6/7,5/9s  <br>
 ## Hammer
 
 ### Attacks:
-Side Swing 15 > 20  <br>
-Weak Pound 20 > 30  <br>
 Draw Swing 20 > 30  <br>
-Charge 1 20 > 30  <br>
-Charge 2 40 > 50  <br>
-Charge 3 Idle 15+76 > 20+90, KO 5+27 > 5+35  <br>
-Charge 3 Moving 20+10x4 > 25+13x4, KO 2+2x4 > 10+8x4, Exhaust 2+2x4 > 8+4x4 (finishers stay the same)  <br>
-Striker 3rd Pound 60 > 70, HA gen 4 > 70  <br>
-Striker Charge 3 19+86 > 25+95, KO 5+17 > 5+35  <br>
+Strong Pound 42 > 50  <br>
+Weak Pound 20 > 30  <br>
+Side Swing 15 > 20  <br>
+Golf Swing ailment modifier 1 > 2  <br>
+Charge 1 25 > 35  <br>
+Charge 2 40 > 60  <br>
+Charge 3 idle 15+76 > 20+100, KO 5+27 > 5+35, ailment modifier 1+1 > 1+2,5   <br>
+Charge 3 moving spin 20+10x4 > 25+13x4, KO 2+2x4 > 10+8x4, Exhaust 2+2x4 > 8+4x4, ailment modifiers 1+1x4 > 1,2+0,8x4, finishers ailment modifier 1/1 > 1,6/2  <br>
+Striker 3rd Pound 60 > 70  <br>
+Striker Charge 3 19+86 > 25+105, KO 5+17 > 5+35, ailment modifier 1+1 > 1,25+2,5  <br>
 Aerial Charge 3 60 > 65  <br>
-Aerial Smash 42 > 50   <br>
-Adept Charge 2 38 > 45  <br>
-Adept Rushing Swing 38 > 45  <br>
-Adept Idle Strong Charge 3 20+90 > 20+100, KO 10+27 > 10+40  <br>
-Adept Moving Strong Charge KO 10+27 > 10+35  <br>
-Valor Charge 1 25/40 >  25/45 ailment modifier 1/1 > 1/1,5  <br>
-Valor Charge 2 45/65 > 45/70 ailment modifier 1/1 > 1,5/2  <br>
-Valor Charge 3 15+85/20+105 > 15+85/20+125, ailment modifier 1+1/1+1 > 1+1,7/1,5+2,5 , KO 10+50/10+60 > 10+50/10+75  <br>
+Aerial Smash 42 > 50  <br>
+Aerial Double Smash ailment modifier 1+1 > 1,4+1,6  <br>
+Adept Charge 2 38 > 42  <br>
+Adept Rushing Swing 38 > 42  <br>
+Adept Idle Strong Charge 3 20+90 > 30+100, KO 10+27 > 10+40, ailment modifier 1+1 > 1,5+2,5  <br>
+Adept Moving Strong Charge KO 10+27 > 10+35, ailment modifier 1+1 > 1+2  <br>
+Valor Charge 1 25/40 > 25/45, ailment modifier 1/1 > 1,2/1,5  <br>
+Valor Charge 2 45/65 > 45/70, ailment modifier 1/1 > 1,5/2  <br>
+Valor Charge 3 15+85/20+105 > 15+85/20+115, ailment modifier 1+1/1+1 > 1+2/1,5+2,5 , KO 10+50/10+60 > 10+50/10+75  <br>
+All other attacks get +0,1 ailment modifier for every 10MVs  <br>
 
 ### Hunter Arts:
-Spinning Meteor MVs Increased 20x2+15+110/20x3+15+125/20x4+15+165 > 25x2+15+130/25x3+20+145/25x4+25+175, Exhaust Increased 15x2+10+30/15x3+10+30/15x4+10+40 > 18x2+10+40/18x3+15+55/18x4+20+70, and build Up increased 830/920/1100 [1196/1304/1520] >  1080/1250/1420 [1267/1354/1528]  <br>
-Provoke Duration Increased 30/60/60s > 60/60/90s  <br>
-Typhoon Trigger MVs Increased 5x6+20+50/60/80 > 8x6+25+50+60/70/90, KO Increased 2x6+40+60/100/125 > 5x6+50+70+100/120/140, Build Up Increased 250/330/420 [500/596/704] > 430/550/640 [654/764/847]  <br>
-Impact Press Damage Increased 6 > 8, Exhaust Increased 4 > 5, HA gen 0 > 8  <br>
+Spinning Meteor MVs Increased 20 > 25 for spins, 15 > 20 for setup spin, and 110/125/165 > 130/145/175 for finishers, exhaust Increased 15 > 18 for spins, 10 > 15 for setup spin, and 30/30/40 > 40/55/70 for finishers, ailment modifiers increased 1 > 1,2 for spins and setup spin, 1/1/1 > 2,5/3/3,5 for finishers, and build up increased 830/920/1100 [1196/1304/1520] >  1080/1250/1420 [1267/1354/1528]  <br>
+Provoke Duration increased 30/60/60s > 60/60/90s  <br>
+Typhoon Trigger MVs increased 5x6+20+50/60/80 > 8x6+25+60/70/90, KO increased 2x6+40+60/100/125 > 5x6+50+100/120/140, finisher ailment modifiers increased 1/1/1 > 1,5/1,75/2, and build up Increased 250/330/420 [500/596/704] > 430/550/640 [654/764/847]  <br>
+Impact Press MVs increased 6 > 8, Exhaust increased 4 > 5, HA gen 0 > 8   <br>
 
 ### Alchemy:
-Charge 3 Idle 0,25  <br>
-Spinning Meteor* 1,5/2/2,5  <br>
-Provoke  1 (single hit)  <br>
-Typhoon Trigger 1,5/1,75/2  <br>
-Impact press 0,05 per hit  <br>
+Golf Swing 0,3   <br>
+Charge 1 0,1   <br>
+Charge 2 0,15   <br>
+Charge 3 Idle 0,3   <br>
+Spinning Meteor* 1,5/2/2,5   <br>
+Provoke  1 (single hit)   <br>
+Typhoon Trigger 1,5/1,75/2   <br>
+Impact press 0,05 per hit   <br>
 
 ### Valor:
 Regular Attacks 1s   <br>
@@ -281,7 +299,7 @@ Adept Triple Swings 15+20+30 > 20+30+35   <br>
 Adept Recital 38 > 50   <br>
 Valor Encore 45+15 > 50+20   <br>
 Regular Attacks ailment modifier increased 1 > 1,2   <br>
-Recitals and Encores ailment modifier increased 1 > 1,3   <br>
+Recitals and Encores ailment modifier increased 1 > 1,4   <br>
 
 ### Hunter Arts:
 Euphony build up increased 590/630/670 [958/956/1004] > 700/750/800 [903/951/998]   <br>
@@ -358,26 +376,23 @@ Corkscrew Jab 6/7,5/9s  <br>
 ## Gunlance
 
 ### Attacks:
-Draw attack/Running Upswing 28 > 34  <br>
-Post-Shell Upswing 27 > 32  <br>
-Upswing 25 > 30  <br>
-Thrust 21 > 28  <br>
-Slam 36 > 48  <br>
-Guard Thrust 16 > 20  <br>
-Jumping Thrust 22 > 27  <br>
-Jumping Slam 36 > 48  <br>
-Jumping Reload Slam 40 > 48  <br>
-Striker 3rd Thrust 24 > 29  <br>
-Aerial Slam 36 > 48  <br>
-Aerial Reload Slam 40 > 48  <br>
-Adept/Valor Upswing 40 > 45  <br>
-Adept/Valor Reload Upswing 37 > 45  <br>
-Adept Slam 50 > 55  <br>
+Draw Upswing 28 > 34, ailment modifier 1 > 1,4   <br>
+Running Upswing 28 > 34, ailment modifier 1 > 1,4  <br>
+Upswing/Post-Shell Upswing 25 > 34, ailment modifier 1 > 1,4  <br>
+Thrust 21 > 28, ailment modifier 1 > 1,2  <br>
+Slam/Valor Slam 38 > 50, ailment modifier 1 > 1,8  <br>
+Guard Thrust 16 > 24, ailment modifier 1 > 1,1  <br>
+Jumping Thrust 22 > 30, ailment modifier 1 > 1,3  <br>
+Jumping Slam 40 > 55, ailment modifier 1 > 2  <br>
+3rd Thrust 24 > 32, ailment modifier 1 > 1,3  <br>
+Adept Upswing ailment modifier 1 > 1,4  <br>
+Adept Slam ailment modifier 1 > 1,8   <br>
+Valor Reload Upswing ailment modifier 1 > 1,4  <br>
 
 ### Shellings:
-Normal shelling 3/4/5 damage increased 18/21/24 > 20/26/38, HA gen. increased 20 > 26  <br>
-Wide shelling 3/4/5 damage increased 40/44/48 > 48/58/73, HA gen. increased 40 > 58  <br>
-Long shelling 3/4/5 damage increased 28/32/36 > 34/44/60, HA gen. increased 30 > 44  <br>
+Normal shelling 3/4/5 damage increased 18/21/24 > 24/29/38, HA gen. increased 20 > 24  <br>
+Wide shelling 3/4/5 damage increased 40/44/48 > 48/58/73, HA gen. increased 40 > 48  <br>
+Long shelling 3/4/5 damage increased 28/32/36 > 36/48/60, HA gen. increased 30 > 36  <br>
 Modifier order is Full burst/Charged Shelling/Wyverfire  <br>
 Normal modifiers changed 1,2/1,2/1 > 1,3/1,5/1  <br>
 Wide modifiers changed 0,9/1,45/1 > 1/2/1  <br>
@@ -446,21 +461,22 @@ ailment phial multiplier increased 1,25 > 1,55  <br>
 
 ### Axe Attacks:
 Overhead Slash stagger modifier 1 > 1,3   <br>
-Side Slash 23 > 28   <br>
-Upswing 32 > 42, stagger modifier 1 > 1,3   <br>
-Forward Thrust 19 > 25   <br>
+Side Slash 23 > 33   <br>
+Upswing 32 > 42, stagger modifier 1 > 1,2   <br>
+Forward Thrust 19 > 28   <br>
 Wild Swing ailment modifier 1 > 0,85   <br>
-Wild Sweep 25+30+40 > 20+35+25, stagger modifier 1+1+1 > 1,1+1,2+1,15   <br>
-All other axe attacks get a 1,1 stagger mod   <br>
+Wild Sweep 25+30+40 > 20+30+25, stagger modifier 1+1+1 > 1,1+1,2+1,15   <br>
+Jumping Swing 40 > 45, stagger modifier 1 > 1,2   <br>
+All other attacks get a stagger modifier of 1,1   <br>
 
 ### Sword Attacks:
-Up Slash 25 > 32  <br>
+Up Slash 25 > 30  <br>
 Jumping Downslash 30 > 35  <br>
+Aerial upslash 35 > 45   <br>
 Elemental Discharge Ticks ailment modifier 1 > 0,7  <br>
 Power Phial ED Explosion (cancel) 80 (50) > 110 (70), ailment modifier 1 (1) > 2 (1,5)  <br>
 Element/Status Phial ED Explosion (cancel) 80 (50) > 90 (60), ailment modifier 1,5 (1,15) > 3 (2)  <br>
 Exhaust Phial ED Explosion (cancel) 80 (50) > 110 (70), ailment modifier 2 (1,3) > 3,5 (2,5)  <br>
-Aerial upslash 35 > 45   <br>
 Power Phial Valor Double ED Explosion 40+60 > 40+50, ailment modifiers 0,6+0,8 > 1+1  <br>
 Element/Status Phial Valor Double ED Explosion 40+60 > 30+40 ailment modifiers 0,8+1 > 1+1,5  <br>
 Exhaust Phial Valor Double ED Explosion 40+60 > 40+50, ailment modifiers 1+1,4 > 1,25+1,75  <br>
@@ -478,7 +494,7 @@ Normal Trance Slash explosions 80/90/100 > 100/110/120  <br>
 Normal Trance Slash total MVs 263/332/384 > 326/403/486  <br>
 Full Trance Slash total MVs 353/442/494 > 500/597/705  <br>
 Trance slash build up increased 670/750/830 [1004/1100/1196] > 1250/1450/1670 [1431/1626/1841]   <br>
-Tempest Axe move speed multiplier increased 2 > 3, Finisher MVs increased 15+55 > 15+75, ailment modifiers increased 1+1 > 1+1,5 stagger modifiers changed 1+1,3 > 0+1,6  <br>
+Tempest Axe move speed multiplier increased 2 > 3, Finisher MVs increased 15+55 > 15+75, ailment modifiers increased 1+1 > 1+1,5, stagger modifiers changed 1+1,3 > 0+1,6  <br>
 
 ### Weapons:
 Doubled element on all elemental phial switch axes  <br>
@@ -532,9 +548,9 @@ Non-striker red shield Buffed 15% > 20%  <br>
 Yellow shield Buffed 0% > 25%  <br>
 
 ### Sword Attacks:
-Draw Slash 18 > 22, ailment modifier 1 > 0,85  <br>
-Forward Slice 14 > 17, ailment modifier 1 > 0,85  <br>
-Upward Slice 15 > 18, ailment modifier 1 > 0,85  <br>
+Draw Slash 18 > 22  <br>
+Forward Slice 14 > 17  <br>
+Upward Slice 15 > 18  <br>
 Shield Thrust 8+12 > 10+12, ailment modifiers 1+1 > 0,6+0,7  <br>
 Morph to Axe Attack 42 > 48  <br>
 Jumping Slash 22 > 26  <br>
@@ -544,11 +560,11 @@ Aerial Charge Slash 35 > 40  <br>
 ### Axe Attacks:
 Upswing 33 > 38  <br>
 Downswing 40 > 48  <br>
-Jumping Swing 42 > 48   <br>
+Jumping Swing 42 > 48  <br> 
 ED I (No Phials) 18 > 30  <br>
-ED I 20 > 35  <br>
+ED I 20 > 35, ailment modifier 1 > 1,35  <br>
 ED II (No Phials) 15+35 > 15+40  <br>
-ED II 20+45 > 20+50  <br>
+ED II 20+45 > 20+50, ailment modifier 1+1 > 1,2+1,5  <br>
 AED (No Phials) 60 > 75  <br>
 AED ailment modifier increased 1 > 2  <br>
 SAED (No Phials) 20+60 > 20+90  <br>
@@ -558,9 +574,10 @@ Aerial AED ailment modifier increased 1 > 2  <br>
 Aerial SAED (No Phials) 60 > 100  <br>
 Aerial SAED 100 > 130,  ailment modifier increased 1 > 3  <br>
 Valor ED III (No Phials) 15+35 > 15+40  <br>
-Valor ED III 15+70 > 15+60  <br>
+Valor ED III 15+70 > 15+60, ailment modifier 1+1 > 1+1,5  <br>
 Valor SAED (No Phials) 20+55 > 20+75  <br>
 Valor SAED 25+80 > 25+90,  ailment modifiers increased 1+1 > 1+2  <br>
+All other Axe attacks get a 1,2 ailment modifier (same boost as raw with red shield)  <br>
 
 ### Hunter Arts:
 Energy Blade 0 Phials MVs buffed 10/20/30 > 50/60/80, elemental modifier increased for 0 phials 1/1/1 > 1/1/2, 1-3 phial 1/1/1 > 2/3/4, 4-6 phials 1/1/1 > 4/5/6, 7-9 phials 1/1/1 > 6/7/8, and 10 phials 1/1/1 > 8/9/10  <br>
@@ -787,6 +804,7 @@ Blast 18 fixed, 20 KO, 27 Exh > 60 fixed, 60KO, 40Exh  <br>
 ### Hunter Arts:
 Triple Volley MVs increased 7x3+7x3+17x5/10x3+10x3+20x5/14x3+14x3+23x5 > 15x3+15x3+26x5/19x3+19x3+31x5/22x3+22x3+36x5, and build up increased 500/600/700 [800/920/1040] > 1080/1170/1250 [1267/1354/1431]  <br>
 Tactical Retreat build up reduced 250/330/420 [500/596/704] > 250/300/360 [500/541/592]  <br>
+Blade Wire MVs increased 9x3/11x3/13x3/15x3 > 12x3/14x3/16x3/18x3  <br>
 
 ### Weapons:
 The bows below have been changed to give every shot/element combination a viable option  <br>
@@ -827,7 +845,7 @@ Piercing Boomerang 2 7+2x3 > 11+2x3   <br>
 Big + Piercing 1 12+3x3 > 14+3x3   <br>
 Big + Piercing 2 10+3x3 > 16+3x3   <br>
 Big + Piercing 3 9x3+17+4x3 > 9x3+19+4x3   <br>
-Charged Boomerang Modifier Increased 1,15 > 1,3   <br>
+Charged Boomerang raw modifier increased 1,15 > 1,3   <br>
 Piercing Boomerangs ailment modifier increased 0,4 > 0,55   <br>
 
 ### Beast Attacks:

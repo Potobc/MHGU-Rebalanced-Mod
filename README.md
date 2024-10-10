@@ -359,7 +359,8 @@ Sonic Smash 1/1,5/2   <br>
 Invigoration 0,2 per hit   <br>
 
 ### Weapons
-![imagen](https://github.com/user-attachments/assets/f986fc61-e566-4513-a8e6-147c3abcea3d)
+![imagen](https://github.com/user-attachments/assets/341916a6-bb6a-4ced-bbef-26124cb67d61)
+
 
 
 ### Valor:
@@ -458,8 +459,7 @@ AA Flare wide and long shelling deal 2x damage, normal shelling deals 1,8x damag
 ### Weapons:
 Changed GL shelling type depending on the amount of sharpness they have, with normal getting the most and wide the least
 Level 4 and 5 GLs are about the same in terms of damage, with lvl4 focusing more on the lance part and level 5 on the gun part
-![imagen](https://github.com/user-attachments/assets/62a12eb4-3bfe-4bed-97d4-2e0b9ff512a5)
-
+![imagen](https://github.com/user-attachments/assets/e91f48a2-0ac9-4dbc-a805-3a382710d43c)
 
 ### Alchemy:
 Slam 0,2  <br>
